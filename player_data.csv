@@ -1,0 +1,505 @@
+full_name,age,league,season,position,Current Club,minutes_played_overall,minutes_played_home,minutes_played_away,nationality,appearances_overall,appearances_home,appearances_away,goals_overall,goals_home,goals_away,assists_overall,assists_home,assists_away,penalty_goals,penalty_misses,clean_sheets_overall,clean_sheets_home,clean_sheets_away,conceded_overall,conceded_home,conceded_away,yellow_cards_overall,red_cards_overall,goals_involved_per_90_overall,assists_per_90_overall,goals_per_90_overall,goals_per_90_home,goals_per_90_away,min_per_goal_overall,conceded_per_90_overall,min_per_conceded_overall,min_per_match,min_per_card_overall,min_per_assist_overall,cards_per_90_overall,rank_in_league_top_attackers,rank_in_league_top_midfielders,rank_in_league_top_defenders,rank_in_club_top_scorer
+Michael Bradley,31,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,360,180,180,USA,4,2,2,0,0,0,1,0,1,0,0,0,0,0,3,2,1,0,0,0.25,0.25,0,0,0,0,0.75,120,90,0,360,0,90,34,-1,7
+Andrea Pirlo,39,FIFA World Cup 2014 Brazil,2014,Midfielder,Italy,270,180,90,Italy,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,12
+David Villa,36,FIFA World Cup 2014 Brazil,2014,Forward,Spain,56,0,56,Spain,1,0,1,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1.61,0,1.61,0,1.61,56,0,0,56,0,0,0,-1,-1,-1,2
+Kyle Beckerman,36,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,270,180,90,USA,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,8
+Víctor Salvador Bernárdez Blanco,36,FIFA World Cup 2014 Brazil,2014,Defender,Honduras,226,180,46,Honduras,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,0,2.39,38,75,226,0,0.4,-1,-1,-1,5
+DaMarcus Beasley,36,FIFA World Cup 2014 Brazil,2014,Defender,USMNT,360,180,180,USA,4,2,2,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,93,86,50,4
+Óscar Boniek García Ramírez,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Honduras,203,159,44,Honduras,3,2,0,0,0,0,0,0,0,0,0,0,0,0,7,5,2,1,0,0,0,0,0,0,0,3.1,29,68,203,0,0.44,-1,-1,-1,12
+Maynor Alexis Figueroa Róchez,35,FIFA World Cup 2014 Brazil,2014,Defender,Honduras,270,180,90,Honduras,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,5,3,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,3
+Carlos Armando Gruezo Arboleda,23,FIFA World Cup 2014 Brazil,2014,Midfielder,Ecuador,97,0,97,Ecuador,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.93,97,49,0,0,0,-1,-1,-1,10
+Adam Kwarasey,30,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Ghana,90,90,0,Ghana,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,3
+Harrison Afful,32,FIFA World Cup 2014 Brazil,2014,Defender,Ghana,180,0,180,Ghana,2,0,2,0,0,0,1,0,1,0,0,0,0,0,4,0,4,1,0,0.5,0.5,0,0,0,0,2,45,90,180,180,0.5,-1,-1,-1,16
+Christian Bolaños Navarro,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Costa Rica,383,114,269,Costa Rica,5,1,3,0,0,0,2,1,1,0,0,3,1,2,1,0,1,0,0,0.47,0.47,0,0,0,0,0.23,383,77,0,192,0,139,9,-1,10
+Clint Dempsey,35,FIFA World Cup 2014 Brazil,2014,Forward,USMNT,357,177,180,USA,4,2,2,2,1,1,0,0,0,0,0,0,0,0,3,2,1,0,0,0.5,0,0.5,0.51,0.5,179,0.76,119,89,0,0,0,12,80,-1,1
+Matt Besler,31,FIFA World Cup 2014 Brazil,2014,Defender,USMNT,316,180,136,USA,4,2,2,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0.57,158,79,0,0,0,92,85,31,6
+Róger Espinoza Ramírez,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Honduras,226,136,90,Honduras,3,2,1,0,0,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0,0,0,0,0,0,2.79,32,75,0,0,0,-1,-1,-1,9
+Graham Zusi,32,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,259,174,85,USA,4,2,1,0,0,0,2,1,1,0,0,0,0,0,3,2,1,0,0,0.69,0.69,0,0,0,0,1.04,86,65,0,130,0,-1,-1,-1,12
+Steven Gerrard,38,FIFA World Cup 2014 Brazil,2014,Midfielder,England,197,90,107,England,3,1,1,0,0,0,0,0,0,0,0,1,0,1,4,2,2,1,0,0,0,0,0,0,0,1.83,49,66,197,0,0.46,-1,-1,-1,16
+Nigel de Jong,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,341,161,180,Netherlands,5,3,2,0,0,0,0,0,0,0,0,2,2,0,3,0,3,0,0,0,0,0,0,0,0,0.79,114,68,0,0,0,140,108,-1,17
+Giovani dos Santos Ramírez,29,FIFA World Cup 2014 Brazil,2014,Forward,Mexico,297,90,207,Mexico,4,1,3,1,0,1,0,0,0,0,0,2,1,1,0,0,0,0,0,0.3,0,0.3,0,0.43,297,0,0,74,0,0,0,19,131,-1,4
+Brad Davis,36,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,59,59,0,USA,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.53,59,59,0,0,0,-1,-1,-1,14
+Didier Yves Drogba Tébily,40,FIFA World Cup 2014 Brazil,2014,Forward,Ivory Coast,136,28,108,Côte d'Ivoire,3,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1,0,0,0,0,0,0,0,1.99,45,45,136,0,0.66,-1,-1,-1,12
+Jozy Altidore,28,FIFA World Cup 2014 Brazil,2014,Forward,USMNT,23,0,23,USA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,-1,-1,-1,11
+Jermaine Jones,36,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,360,180,180,USA,4,2,2,1,1,0,1,0,1,0,0,0,0,0,3,2,1,1,0,0.5,0.25,0.25,0.5,0,360,0.75,120,90,360,360,0.25,41,33,-1,2
+Frank Lampard,40,FIFA World Cup 2014 Brazil,2014,Midfielder,England,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,9
+Tim Howard,39,FIFA World Cup 2014 Brazil,2014,Goalkeeper,USMNT,360,180,180,USA,4,2,2,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,94,87,49,3
+Marcelo Nicolás Lodeiro Benítez,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Uruguay,143,97,46,Uruguay,3,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0.63,143,48,0,0,0,-1,-1,-1,13
+Alejandro Bedoya,31,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,285,103,182,USA,4,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0.63,143,71,0,0,0,77,70,-1,10
+Kolo Habib Touré,37,FIFA World Cup 2014 Brazil,2014,Defender,Ivory Coast,90,0,90,Côte d'Ivoire,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,13
+Juwon Oshaniwa,28,FIFA World Cup 2014 Brazil,2014,Defender,Nigeria,360,180,180,Nigeria,4,2,2,0,0,0,0,0,0,0,0,2,1,1,4,3,1,1,0,0,0,0,0,0,0,1,90,90,360,0,0.25,89,82,60,7
+Emilio Arturo Izaguirre Girón,32,FIFA World Cup 2014 Brazil,2014,Defender,Honduras,136,46,90,Honduras,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,2.65,34,68,0,0,0,-1,-1,-1,4
+Cristian Gamboa Luna,28,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,426,167,259,Costa Rica,5,2,3,0,0,0,0,0,0,0,0,3,1,2,1,0,1,0,0,0,0,0,0,0,0,0.21,426,85,0,0,0,125,149,5,7
+Manuel Neuer,32,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Germany,630,360,270,Germany,7,4,3,0,0,0,0,0,0,0,0,4,2,2,2,2,0,0,0,0,0,0,0,0,0,0.29,315,90,0,0,0,70,55,11,8
+Philipp Lahm,34,FIFA World Cup 2014 Brazil,2014,Defender,Germany,630,360,270,Germany,7,4,3,0,0,0,2,0,2,0,0,4,2,2,2,2,0,1,0,0.29,0.29,0,0,0,0,0.29,315,90,630,315,0.14,69,19,10,9
+Javi Martinez,30,FIFA World Cup 2014 Brazil,2014,Defender,Spain,90,90,0,Spain,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,8
+Mats Hummels,29,FIFA World Cup 2014 Brazil,2014,Defender,Germany,479,253,226,Germany,6,3,3,2,1,1,0,0,0,0,0,4,2,2,2,2,0,0,0,0.38,0,0.38,0.36,0.4,240,0.38,240,80,0,0,0,15,54,13,3
+Xabi Alonso,36,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,192,109,83,Spain,3,2,1,1,1,0,0,0,0,1,0,1,0,1,4,4,0,1,0,0.47,0,0.47,0.83,0,192,1.88,48,64,192,0,0.47,-1,-1,-1,3
+Arturo Vidal,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Chile,235,60,175,Chile,3,1,2,0,0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,0,0,0,0,0,0,0.77,118,78,235,0,0.38,-1,-1,-1,10
+Thomas Müller,29,FIFA World Cup 2014 Brazil,2014,Forward,Germany,622,352,270,Germany,7,4,3,5,3,2,3,2,1,1,0,4,2,2,2,2,0,0,0,1.16,0.43,0.72,0.77,0.67,124,0.29,311,89,0,207,0,4,13,-1,1
+Sokratis Papastathopoulos,30,FIFA World Cup 2014 Brazil,2014,Defender,Greece,360,90,270,Greece,4,1,3,1,0,1,0,0,0,0,0,1,0,1,4,1,3,1,0,0.25,0,0.25,0,0.33,360,1,90,90,360,0,0.25,40,104,64,2
+Shinji Kagawa,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Japan,204,118,86,Japan,3,1,1,0,0,0,0,0,0,0,0,1,1,0,5,3,2,0,0,0,0,0,0,0,0,2.21,41,68,0,0,0,-1,-1,-1,9
+Gustavo Adrián Ramos Vásquez,32,FIFA World Cup 2014 Brazil,2014,Forward,Colombia,139,5,134,Colombia,3,0,1,0,0,0,1,0,1,0,0,1,1,0,2,0,2,0,0,0.65,0.65,0,0,0,0,1.29,70,46,0,139,0,-1,-1,-1,9
+Yūya Ōsako,28,FIFA World Cup 2014 Brazil,2014,Forward,Japan,124,57,67,Japan,2,1,1,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,1.45,62,62,0,0,0,-1,-1,-1,11
+Júnior Enrique Díaz Campbell,35,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,450,180,270,Costa Rica,5,2,3,0,0,0,1,0,1,0,0,3,1,2,1,0,1,1,0,0.2,0.2,0,0,0,0,0.2,450,90,450,450,0.2,105,38,4,6
+Johan Danon Djourou-Gbadjere,31,FIFA World Cup 2014 Brazil,2014,Defender,Switzerland,360,180,180,Switzerland,4,2,2,0,0,0,0,0,0,0,0,1,0,1,6,6,0,1,0,0,0,0,0,0,0,1.5,60,90,360,0,0.25,145,141,70,6
+Mathew Leckie,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Australia,270,180,90,Australia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,10
+Paul Verhaegh,35,FIFA World Cup 2014 Brazil,2014,Defender,Netherlands,56,56,0,Netherlands,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.61,56,56,0,0,0,-1,-1,-1,10
+Ja-Cheol Koo,29,FIFA World Cup 2014 Brazil,2014,Midfielder,South Korea,270,180,90,South Korea,3,2,1,1,1,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0.33,0,0.33,0.5,0,270,2,45,90,270,0,0.33,-1,-1,-1,2
+Ricardo Rodríguez,26,FIFA World Cup 2014 Brazil,2014,Defender,Switzerland,360,180,180,Switzerland,4,2,2,0,0,0,2,2,0,0,0,1,0,1,6,6,0,0,0,0.5,0.5,0,0,0,0,1.5,60,90,0,180,0,143,6,68,9
+Luiz Gustavo Dias,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,496,406,90,Brazil,6,5,1,0,0,0,1,0,1,0,0,1,1,0,12,11,1,2,0,0.18,0.18,0,0,0,0,2.18,41,83,248,496,0.36,80,39,-1,17
+Daniel Opare,27,FIFA World Cup 2014 Brazil,2014,Defender,Ghana,90,90,0,Ghana,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,6
+Diego Benaglio,35,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Switzerland,360,180,180,Switzerland,4,2,2,0,0,0,0,0,0,0,0,1,0,1,6,6,0,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,146,142,71,5
+Makoto Hasebe,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Japan,190,136,54,Japan,3,2,1,0,0,0,0,0,0,0,0,1,1,0,4,4,0,1,0,0,0,0,0,0,0,1.89,48,63,190,0,0.47,-1,-1,-1,8
+Benedikt Höwedes,30,FIFA World Cup 2014 Brazil,2014,Defender,Germany,630,360,270,Germany,7,4,3,0,0,0,1,1,0,0,0,4,2,2,2,2,0,2,0,0.14,0.14,0,0,0,0,0.29,315,90,315,630,0.29,66,47,9,12
+Sead Kolašinac,25,FIFA World Cup 2014 Brazil,2014,Defender,Bosnia-Herzegovina,180,90,90,Bosnia and Herzegovina,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.5,60,90,0,0,0,-1,-1,-1,14
+Choupo-Moting,29,FIFA World Cup 2014 Brazil,2014,Forward,Cameroon,246,156,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,7,1,0,0,0,0,0,0,0,0,2.93,31,82,0,0,0,-1,-1,-1,11
+Haris Seferović,26,FIFA World Cup 2014 Brazil,2014,Forward,Switzerland,109,84,25,Switzerland,4,1,0,1,1,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0.83,0,0.83,1.07,0,109,3.3,27,27,0,0,0,-1,-1,-1,4
+Nabil Bentaleb,23,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,270,90,180,Algeria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,1,0,0,0,0,0,0,0,1.67,54,90,270,0,0.33,-1,-1,-1,10
+Christoph Kramer,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Germany,13,13,0,Germany,3,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,-1,-1,-1,16
+Charles Aránguiz,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Chile,334,90,244,Chile,4,1,3,1,0,1,1,0,1,0,0,1,0,1,3,1,2,1,0,0.54,0.27,0.27,0,0.37,334,0.81,111,84,334,334,0.27,26,21,-1,2
+Fabian Johnson,30,FIFA World Cup 2014 Brazil,2014,Midfielder,USMNT,302,180,122,USA,4,2,2,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,0.89,101,76,0,0,0,88,81,-1,9
+Admir Mehmedi,27,FIFA World Cup 2014 Brazil,2014,Forward,Switzerland,337,134,203,Switzerland,4,1,2,1,1,0,0,0,0,0,0,1,0,1,5,5,0,0,0,0.27,0,0.27,0.67,0,337,1.34,67,84,0,0,0,28,134,-1,3
+Vedad Ibišević,34,FIFA World Cup 2014 Brazil,2014,Forward,Bosnia-Herzegovina,144,90,54,Bosnia and Herzegovina,3,1,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0.63,0,0.63,0,1.67,144,0.63,144,48,0,0,0,-1,-1,-1,4
+Salomon Armand Magloire Kalou,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Ivory Coast,203,90,113,Côte d'Ivoire,3,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,1.33,68,68,203,0,0.44,-1,-1,-1,7
+Valentin Stocker,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Switzerland,46,46,0,Switzerland,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.96,46,46,0,0,0,-1,-1,-1,12
+Fabian Schär,26,FIFA World Cup 2014 Brazil,2014,Defender,Switzerland,180,0,180,Switzerland,2,0,2,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,14
+Ermin Bičakčić,28,FIFA World Cup 2014 Brazil,2014,Defender,Bosnia-Herzegovina,90,0,90,Bosnia and Herzegovina,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,15
+Emir Spahić,38,FIFA World Cup 2014 Brazil,2014,Defender,Bosnia-Herzegovina,270,90,180,Bosnia and Herzegovina,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,-1,-1,-1,11
+Mario Götze,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Germany,228,207,21,Germany,6,3,0,2,2,0,0,0,0,0,0,4,2,2,2,2,0,0,0,0.79,0,0.79,0.87,0,114,0.79,114,38,0,0,0,-1,-1,-1,4
+Izet Hajrović,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,128,0,128,Bosnia and Herzegovina,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,2.11,43,64,0,0,0,-1,-1,-1,9
+Jérôme Boateng,30,FIFA World Cup 2014 Brazil,2014,Defender,Germany,586,316,270,Germany,7,4,3,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,0,0,67,56,1,11
+Arjen Robben,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,630,360,270,Netherlands,7,4,3,3,0,3,1,1,0,0,0,4,3,1,4,1,3,1,0,0.57,0.14,0.43,0,1,210,0.57,158,90,630,630,0.14,13,45,-1,2
+Eduardo Jesús Vargas Rojas,28,FIFA World Cup 2014 Brazil,2014,Forward,Chile,311,88,223,Chile,4,1,3,1,0,1,2,1,1,0,0,1,0,1,3,1,2,0,0,0.87,0.58,0.29,0,0.4,311,0.87,104,78,0,156,0,22,2,-1,4
+Josip Drmic,26,FIFA World Cup 2014 Brazil,2014,Forward,Switzerland,251,96,155,Switzerland,4,1,2,0,0,0,2,0,2,0,0,1,0,1,2,2,0,0,0,0.72,0.72,0,0,0,0,0.72,126,63,0,126,0,-1,-1,-1,13
+Atsuto Uchida,30,FIFA World Cup 2014 Brazil,2014,Defender,Japan,270,180,90,Japan,3,2,1,0,0,0,0,0,0,0,0,1,1,0,6,4,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,4
+Ivica Olić,39,FIFA World Cup 2014 Brazil,2014,Forward,Croatia,228,69,159,Croatia,3,1,2,1,0,1,0,0,0,0,0,1,0,1,2,0,2,0,0,0.39,0,0.39,0,0.57,228,0.79,114,76,0,0,0,-1,-1,-1,3
+Marcelo Alfonso Díaz Rojas,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Chile,360,90,270,Chile,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,121,120,-1,11
+Heung-Min Son,26,FIFA World Cup 2014 Brazil,2014,Forward,South Korea,247,163,84,South Korea,3,2,1,1,1,0,0,0,0,0,0,0,0,0,5,4,1,1,0,0.36,0,0.36,0.55,0,247,1.82,49,82,247,0,0.36,-1,-1,-1,1
+Jeong-Ho Hong,29,FIFA World Cup 2014 Brazil,2014,Defender,South Korea,253,180,73,South Korea,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,5,0,1,0,0,0,0,0,0,0,1.78,51,84,253,0,0.36,-1,-1,-1,6
+Joel Matip,27,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,180,180,0,Cameroon,2,2,0,1,1,0,0,0,0,0,0,0,0,0,8,8,0,0,0,0.5,0,0.5,0.5,0,180,4,23,90,0,0,0,-1,-1,-1,1
+Granit Xhaka,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Switzerland,323,180,143,Switzerland,4,2,2,1,1,0,0,0,0,0,0,1,0,1,6,6,0,1,0,0.28,0,0.28,0.5,0,323,1.67,54,81,323,0,0.28,25,135,-1,2
+Ivan Perišić,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Croatia,258,90,168,Croatia,3,1,2,2,1,1,1,0,1,0,0,1,0,1,5,3,2,0,0,1.05,0.35,0.7,1,0.54,129,1.74,52,86,0,258,0,-1,-1,-1,1
+Kevin De Bruyne,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,360,270,90,Belgium,4,3,1,1,1,0,2,2,0,0,0,1,1,0,2,1,1,0,0,0.75,0.5,0.25,0.33,0,360,0.5,180,90,0,180,0,35,5,-1,5
+Dante,34,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,90,90,0,Brazil,1,1,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,1,0,0,0,0,0,0,0,7,13,90,90,0,1,-1,-1,-1,11
+Sereso Geoffroy Gonzaroua Dié,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Ivory Coast,225,62,163,Côte d'Ivoire,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.6,56,75,225,0,0.4,-1,-1,-1,11
+Adnan Januzaj,23,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,60,0,60,Belgium,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,-1,-1,-1,7
+Toni Šunjić,29,FIFA World Cup 2014 Brazil,2014,Defender,Bosnia-Herzegovina,180,90,90,Bosnia and Herzegovina,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,6
+Gonzalo Alejandro Jara Reyes,33,FIFA World Cup 2014 Brazil,2014,Defender,Chile,360,90,270,Chile,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,108,119,52,6
+Hugo Miguel Pereira de Almeida,34,FIFA World Cup 2014 Brazil,2014,Forward,Portugal,28,0,28,Portugal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,3.21,28,28,0,0,0,-1,-1,-1,10
+Hotaru Yamaguchi,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Japan,208,118,90,Japan,3,1,1,0,0,0,0,0,0,0,0,1,1,0,4,2,2,0,0,0,0,0,0,0,0,1.73,52,69,0,0,0,-1,-1,-1,10
+Xherdan Shaqiri,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Switzerland,357,180,177,Switzerland,4,2,2,3,0,3,0,0,0,0,0,1,0,1,6,6,0,0,0,0.76,0,0.76,0,1.53,119,1.51,60,89,0,0,0,3,136,-1,1
+Pepe Reina,36,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Spain,90,0,90,Spain,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,20
+Kevin-Prince Boateng,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Ghana,83,31,52,Ghana,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,2.17,42,42,0,0,0,-1,-1,-1,12
+Valon Behrami,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Switzerland,316,136,180,Switzerland,4,2,2,0,0,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0,0,0,0,0,0,1.14,79,79,0,0,0,142,137,-1,10
+Ciro Immobile,28,FIFA World Cup 2014 Brazil,2014,Forward,Italy,88,71,17,Italy,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,0,0,-1,-1,-1,7
+Shinji Okazaki,32,FIFA World Cup 2014 Brazil,2014,Forward,Japan,249,159,90,Japan,3,2,1,1,1,0,0,0,0,0,0,1,1,0,4,2,2,0,0,0.36,0,0.36,0.57,0,249,1.45,62,83,0,0,0,-1,-1,-1,2
+Mensur Mujdža,34,FIFA World Cup 2014 Brazil,2014,Defender,Bosnia-Herzegovina,159,0,159,Bosnia and Herzegovina,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,1.7,53,80,0,0,0,-1,-1,-1,16
+Bastian Schweinsteiger,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Germany,475,219,256,Germany,6,2,3,0,0,0,0,0,0,0,0,3,1,2,0,0,0,2,0,0,0,0,0,0,0,0,0,79,238,0,0.38,60,51,-1,15
+João Pedro da Silva Pereira,34,FIFA World Cup 2014 Brazil,2014,Defender,Portugal,241,61,180,Portugal,3,1,2,0,0,0,0,0,0,0,0,0,0,0,7,1,6,1,0,0,0,0,0,0,0,2.61,34,80,241,0,0.37,-1,-1,-1,15
+Efe Ambrose,29,FIFA World Cup 2014 Brazil,2014,Defender,Nigeria,360,180,180,Nigeria,4,2,2,0,0,0,0,0,0,0,0,2,1,1,4,3,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,68,67,58,4
+Hillel El Arbi Soudani,30,FIFA World Cup 2014 Brazil,2014,Forward,Algeria,166,0,166,Algeria,3,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.54,166,55,0,0,0,-1,-1,-1,11
+Christian Fernando Noboa Tello,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Ecuador,270,90,180,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,8
+Steven Defour,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,44,0,44,Belgium,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,44,22,0,4.09,-1,-1,-1,9
+Jasper Cillessen,29,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Netherlands,660,390,270,Netherlands,7,4,3,0,0,0,0,0,0,0,0,4,3,1,4,1,3,0,0,0,0,0,0,0,0,0.55,165,94,0,0,0,65,125,30,12
+Darijo Srna,36,FIFA World Cup 2014 Brazil,2014,Defender,Croatia,270,90,180,Croatia,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,5
+Bernard Anício Caldeira Duarte,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,156,156,0,Brazil,3,1,0,0,0,0,0,0,0,0,0,1,1,0,7,7,0,0,0,0,0,0,0,0,0,4.04,22,52,0,0,0,-1,-1,-1,14
+Emmanuel Emenike,31,FIFA World Cup 2014 Brazil,2014,Forward,Nigeria,360,180,180,Nigeria,4,2,2,0,0,0,2,2,0,0,0,2,1,1,4,3,1,0,0,0.5,0.5,0,0,0,0,1,90,90,0,180,0,98,7,-1,12
+Giannis Maniatis,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,348,90,258,Greece,4,1,3,0,0,0,0,0,0,0,0,1,0,1,4,1,3,0,0,0,0,0,0,0,0,1.03,87,87,0,0,0,115,102,-1,10
+Steve von Bergen,35,FIFA World Cup 2014 Brazil,2014,Defender,Switzerland,99,99,0,Switzerland,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.91,99,50,0,0,0,-1,-1,-1,8
+Pablo Zabaleta,33,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,630,360,270,Argentina,7,4,3,0,0,0,0,0,0,0,0,4,3,1,3,1,2,0,0,0,0,0,0,0,0,0.43,210,90,0,0,0,129,65,16,17
+David Silva,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,175,168,7,Spain,3,2,0,0,0,0,0,0,0,0,0,1,0,1,6,6,0,0,0,0,0,0,0,0,0,3.09,29,58,0,0,0,-1,-1,-1,14
+Fernando,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,296,252,44,Brazil,5,3,0,1,0,1,0,0,0,0,0,0,0,0,7,7,0,1,0,0.3,0,0.3,0,2.05,296,2.13,42,59,296,0,0.3,17,50,-1,4
+Raheem Sterling,23,FIFA World Cup 2014 Brazil,2014,Midfielder,England,182,90,92,England,3,1,1,0,0,0,0,0,0,0,0,1,0,1,3,2,1,1,0,0,0,0,0,0,0,1.48,61,61,182,0,0.49,-1,-1,-1,14
+Sergio Aguero,30,FIFA World Cup 2014 Brazil,2014,Forward,Argentina,253,163,90,Argentina,5,2,1,0,0,0,0,0,0,0,0,2,1,1,2,1,1,1,0,0,0,0,0,0,0,0.71,127,51,253,0,0.36,-1,-1,-1,11
+Bacary Sagna,35,FIFA World Cup 2014 Brazil,2014,Defender,France,90,0,90,France,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,9
+Joe Hart,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,England,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,3
+João Moutinho,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Portugal,270,90,180,Portugal,3,1,2,0,0,0,0,0,0,0,0,0,0,0,7,1,6,1,0,0,0,0,0,0,0,2.33,39,90,270,0,0.33,-1,-1,-1,12
+Iker Casillas Fernández,37,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Spain,180,180,0,Spain,2,2,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,1,0,0,0,0,0,0,0,3.5,26,90,180,0,0.5,-1,-1,-1,4
+Victorio Maximiliano Pereira Páez,34,FIFA World Cup 2014 Brazil,2014,Defender,Uruguay,224,90,134,Uruguay,3,1,1,0,0,0,0,0,0,0,0,1,0,1,5,3,2,1,1,0,0,0,0,0,0,2.01,45,75,112,0,0.8,-1,-1,-1,6
+Héctor Miguel Herrera López,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Mexico,346,90,256,Mexico,4,1,3,0,0,0,1,0,1,0,0,2,1,1,2,0,2,0,0,0.26,0.26,0,0,0,0,0.52,173,87,0,346,0,62,24,-1,10
+Thomas Vermaelen,32,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,31,31,0,Belgium,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,-1,-1,-1,11
+Konstantinos Manolas,27,FIFA World Cup 2014 Brazil,2014,Defender,Greece,360,90,270,Greece,4,1,3,0,0,0,0,0,0,0,0,1,0,1,4,1,3,1,0,0,0,0,0,0,0,1,90,90,360,0,0.25,116,103,61,7
+Daniele De Rossi,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Italy,180,90,90,Italy,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,13
+Edin Džeko,32,FIFA World Cup 2014 Brazil,2014,Forward,Bosnia-Herzegovina,264,84,180,Bosnia and Herzegovina,3,1,2,1,1,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0.34,0,0.34,1.07,0,264,1.36,66,88,0,0,0,-1,-1,-1,1
+Miguel Arturo Layún Prado,30,FIFA World Cup 2014 Brazil,2014,Defender,Mexico,360,90,270,Mexico,4,1,3,0,0,0,0,0,0,0,0,2,1,1,2,0,2,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,59,95,25,9
+Gnégnéri Yaya Touré,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Ivory Coast,270,90,180,Côte d'Ivoire,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,9
+Maxwell Scherrer Cabelino Andrade,37,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,90,90,0,Brazil,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,10
+Thiago Silva,34,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,540,450,90,Brazil,6,5,1,1,1,0,1,1,0,0,0,1,1,0,6,5,1,3,0,0.33,0.17,0.17,0.2,0,540,1,90,90,180,540,0.5,52,40,56,5
+Serge Aurier,25,FIFA World Cup 2014 Brazil,2014,Defender,Ivory Coast,270,90,180,Côte d'Ivoire,3,1,2,0,0,0,2,2,0,0,0,0,0,0,4,1,3,0,0,0.67,0.67,0,0,0,0,1.33,68,90,0,135,0,-1,-1,-1,6
+Blaise Matuidi,31,FIFA World Cup 2014 Brazil,2014,Midfielder,France,427,270,157,France,5,3,2,1,0,1,0,0,0,0,0,3,2,1,3,1,2,1,0,0.21,0,0.21,0,0.57,427,0.63,142,85,427,0,0.21,48,128,-1,3
+Ángel Di María,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Argentina,393,303,90,Argentina,5,4,1,1,1,0,0,0,0,0,0,3,3,0,3,1,2,1,0,0.23,0,0.23,0.3,0,393,0.69,131,79,393,0,0.23,42,61,-1,4
+Marco Verratti,25,FIFA World Cup 2014 Brazil,2014,Midfielder,Italy,132,75,57,Italy,2,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0.68,0.68,0,0,0,0,0.68,132,66,0,132,0,-1,-1,-1,10
+Edinson Cavani,31,FIFA World Cup 2014 Brazil,2014,Forward,Uruguay,360,180,180,Uruguay,4,2,2,1,1,0,1,1,0,1,0,1,0,1,6,4,2,0,0,0.5,0.25,0.25,0.5,0,360,1.5,60,90,0,360,0,37,26,-1,3
+David Ospina Ramírez,30,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Colombia,445,270,175,Colombia,5,3,2,0,0,0,0,0,0,0,0,2,2,0,4,1,3,0,0,0,0,0,0,0,0,0.81,111,89,0,0,0,122,116,53,11
+Laurent Koscielny,33,FIFA World Cup 2014 Brazil,2014,Defender,France,222,108,114,France,4,1,1,0,0,0,0,0,0,0,0,2,1,1,2,0,2,0,0,0,0,0,0,0,0,0.81,111,56,0,0,0,-1,-1,-1,7
+Shkodran Mustafi,26,FIFA World Cup 2014 Brazil,2014,Defender,Germany,131,131,0,Germany,3,1,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,0,0,0,0,0,0,0,0,1.37,66,44,0,0,0,-1,-1,-1,13
+Mesut Özil,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Germany,625,363,262,Germany,7,4,3,1,1,0,1,0,1,0,0,4,2,2,2,2,0,0,0,0.29,0.14,0.14,0.25,0,625,0.29,313,89,0,625,0,57,44,-1,6
+Santiago Cazorla González,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,82,14,68,Spain,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,0,-1,-1,-1,5
+Alexis Sanchez,29,FIFA World Cup 2014 Brazil,2014,Forward,Chile,360,90,270,Chile,4,1,3,2,1,1,1,1,0,0,0,1,0,1,3,1,2,0,0,0.75,0.25,0.5,1,0.33,180,0.75,120,90,0,360,0,11,35,-1,1
+Thiago Motta,36,FIFA World Cup 2014 Brazil,2014,Midfielder,Italy,94,61,33,Italy,3,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1.91,47,31,0,0,0,-1,-1,-1,8
+Olivier Giroud,32,FIFA World Cup 2014 Brazil,2014,Forward,France,165,79,86,France,5,1,1,1,0,1,1,0,1,0,0,3,2,1,0,0,0,0,0,1.09,0.55,0.55,0,1.05,165,0,0,33,0,165,0,-1,-1,-1,5
+Éder Fabián Álvarez Balanta,25,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,90,0,90,Colombia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,10
+Raúl Albiol,33,FIFA World Cup 2014 Brazil,2014,Defender,Spain,90,0,90,Spain,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,9
+Faouzi Ghoulam,27,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,180,0,180,Algeria,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,16
+Dries Mertens,31,FIFA World Cup 2014 Brazil,2014,Forward,Belgium,269,179,90,Belgium,5,2,1,1,1,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0.33,0,0.33,0.5,0,269,0,0,54,0,0,0,-1,-1,-1,2
+Gökhan İnler,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Switzerland,360,180,180,Switzerland,4,2,2,0,0,0,1,1,0,0,0,1,0,1,6,6,0,0,0,0.25,0.25,0,0,0,0,1.5,60,90,0,360,0,141,29,-1,11
+Vincent Paté Aboubakar,26,FIFA World Cup 2014 Brazil,2014,Forward,Cameroon,142,142,0,Cameroon,2,2,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,3.8,24,71,0,0,0,-1,-1,-1,14
+Andreas Samaris,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,136,78,58,Greece,2,0,1,1,1,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0.66,0,0.66,1.15,0,136,1.32,68,68,136,0,0.66,-1,-1,-1,3
+Júlio César Soares de Espíndola,39,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Brazil,630,540,90,Brazil,7,6,1,0,0,0,0,0,0,0,0,1,1,0,13,12,1,1,0,0,0,0,0,0,0,1.86,48,90,630,0,0.14,150,150,77,7
+André Gomes Magalhaes de Almeida,28,FIFA World Cup 2014 Brazil,2014,Defender,Portugal,71,0,71,Portugal,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.27,71,36,0,0,0,-1,-1,-1,7
+Gerard Piqué,31,FIFA World Cup 2014 Brazil,2014,Defender,Spain,90,90,0,Spain,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,5,18,90,0,0,0,-1,-1,-1,19
+Jordi Alba,29,FIFA World Cup 2014 Brazil,2014,Defender,Spain,270,180,90,Spain,3,2,1,0,0,0,0,0,0,0,0,1,0,1,7,7,0,0,0,0,0,0,0,0,0,2.33,39,90,0,0,0,-1,-1,-1,17
+Ivan Rakitić,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Croatia,270,90,180,Croatia,3,1,2,0,0,0,1,1,0,0,0,1,0,1,5,3,2,1,0,0.33,0.33,0,0,0,0,1.67,54,90,270,270,0.33,-1,-1,-1,10
+Sergio Busquets,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,180,180,0,Spain,2,2,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,3.5,26,90,0,0,0,-1,-1,-1,13
+Lionel Messi,31,FIFA World Cup 2014 Brazil,2014,Forward,Argentina,603,360,243,Argentina,7,4,3,4,2,2,1,1,0,0,0,4,3,1,3,1,2,0,0,0.75,0.15,0.6,0.5,0.74,151,0.45,201,86,0,603,0,8,43,-1,1
+Luis Suárez,31,FIFA World Cup 2014 Brazil,2014,Forward,Uruguay,178,88,90,Uruguay,2,1,1,2,2,0,0,0,0,0,0,1,0,1,1,1,0,0,0,1.01,0,1.01,2.05,0,89,0.51,178,89,0,0,0,-1,-1,-1,1
+Neymar,26,FIFA World Cup 2014 Brazil,2014,Forward,Brazil,427,356,71,Brazil,5,4,1,4,2,2,1,1,0,1,0,1,1,0,4,3,1,1,0,1.05,0.21,0.84,0.51,2.54,107,0.84,107,85,427,427,0.21,2,37,-1,1
+Andrés Iniesta,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,270,180,90,Spain,3,2,1,0,0,0,1,0,1,0,0,1,0,1,7,7,0,0,0,0.33,0.33,0,0,0,0,2.33,39,90,0,270,0,-1,-1,-1,16
+Javier Mascherano,34,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,630,360,270,Argentina,7,4,3,0,0,0,0,0,0,0,0,4,3,1,3,1,2,1,0,0,0,0,0,0,0,0.43,210,90,630,0,0.14,101,66,17,12
+Lucas Digne,25,FIFA World Cup 2014 Brazil,2014,Defender,France,90,0,90,France,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,8
+Héctor Alfredo Moreno Herrera,30,FIFA World Cup 2014 Brazil,2014,Defender,Mexico,316,90,226,Mexico,4,1,3,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,0,0,0,0,0,0,0,0.28,316,79,316,0,0.28,58,96,8,8
+Andrés Guardado,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Mexico,333,69,264,Mexico,4,1,3,1,0,1,0,0,0,0,0,2,1,1,1,0,1,1,0,0.27,0,0.27,0,0.34,333,0.27,333,83,333,0,0.27,29,127,-1,1
+Juanfran,33,FIFA World Cup 2014 Brazil,2014,Defender,Spain,90,0,90,Spain,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,90,0,90,0,-1,-1,-1,7
+Diego Godín,32,FIFA World Cup 2014 Brazil,2014,Defender,Uruguay,360,180,180,Uruguay,4,2,2,1,0,1,0,0,0,0,0,1,0,1,6,4,2,1,0,0.25,0,0.25,0,0.5,360,1.5,60,90,360,0,0.25,38,99,72,2
+José Giménez,23,FIFA World Cup 2014 Brazil,2014,Defender,Uruguay,270,90,180,Uruguay,3,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,16
+Koke,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,134,44,90,Spain,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,67,0,0,0,-1,-1,-1,6
+Antoine Griezmann,27,FIFA World Cup 2014 Brazil,2014,Forward,France,295,208,87,France,5,2,1,0,0,0,0,0,0,0,0,3,2,1,2,1,1,0,0,0,0,0,0,0,0,0.61,148,59,0,0,0,132,93,-1,11
+Santiago Arias Naranjo,26,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,124,34,90,Colombia,3,0,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,0,0,0,0,0,0,0,0,1.45,62,41,0,0,0,-1,-1,-1,7
+Fernando Torres,34,FIFA World Cup 2014 Brazil,2014,Forward,Spain,143,53,90,Spain,3,0,1,1,0,1,0,0,0,0,0,1,0,1,3,3,0,0,0,0.63,0,0.63,0,1,143,1.89,48,48,0,0,0,-1,-1,-1,1
+Claudio Andrés Bravo Muñoz,35,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Chile,360,90,270,Chile,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,104,118,48,5
+Igor Akinfeev,32,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Russia,270,90,180,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,3
+Vasili Berezutski,36,FIFA World Cup 2014 Brazil,2014,Defender,Russia,270,90,180,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,4
+Sergei Ignashevich,39,FIFA World Cup 2014 Brazil,2014,Defender,Russia,270,90,180,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,5
+Hugo Lloris,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,France,450,270,180,France,5,3,2,0,0,0,0,0,0,0,0,3,2,1,3,1,2,0,0,0,0,0,0,0,0,0.6,150,90,0,0,0,138,133,36,10
+Jan Vertonghen,31,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,419,239,180,Belgium,5,2,2,1,0,1,0,0,0,0,0,2,1,1,2,1,1,1,0,0.21,0,0.21,0,0.5,419,0.43,210,84,419,0,0.21,47,76,20,3
+Toby Alderweireld,29,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,360,270,90,Belgium,4,3,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,2,0,0,0,0,0,0,0,0.5,180,90,180,0,0.5,84,75,28,18
+Moussa Dembele,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,155,65,90,Belgium,2,1,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0.58,155,78,155,0,0.58,-1,-1,-1,17
+Moussa Sissoko,29,FIFA World Cup 2014 Brazil,2014,Midfielder,France,213,33,180,France,4,0,2,1,0,1,0,0,0,0,0,3,2,1,2,0,2,0,0,0.42,0,0.42,0,0.5,213,0.85,107,53,0,0,0,-1,-1,-1,6
+Sergio Ramos,32,FIFA World Cup 2014 Brazil,2014,Defender,Spain,270,180,90,Spain,3,2,1,0,0,0,0,0,0,0,0,1,0,1,7,7,0,1,0,0,0,0,0,0,0,2.33,39,90,270,0,0.33,-1,-1,-1,12
+Marcelo,30,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,540,450,90,Brazil,6,5,1,0,0,0,2,1,1,0,0,1,1,0,11,10,1,0,0,0.33,0.33,0,0,0,0,1.83,49,90,0,270,0,78,15,75,18
+Raphaël Varane,25,FIFA World Cup 2014 Brazil,2014,Defender,France,389,270,119,France,5,3,1,0,0,0,0,0,0,0,0,3,2,1,3,1,2,0,0,0,0,0,0,0,0,0.69,130,78,0,0,0,135,129,38,14
+Luka Modrić,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Croatia,270,90,180,Croatia,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,9
+Toni Kroos,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Germany,630,360,270,Germany,7,4,3,2,0,2,3,1,2,0,0,4,2,2,2,2,0,0,0,0.71,0.43,0.29,0,0.67,315,0.29,315,90,0,210,0,21,12,-1,2
+Cristiano Ronaldo,33,FIFA World Cup 2014 Brazil,2014,Forward,Portugal,270,90,180,Portugal,3,1,2,1,1,0,1,0,1,0,0,0,0,0,7,1,6,0,0,0.67,0.33,0.33,1,0,270,2.33,39,90,0,270,0,-1,-1,-1,1
+Karim Benzema,30,FIFA World Cup 2014 Brazil,2014,Forward,France,450,270,180,France,5,3,2,3,2,1,2,0,2,1,1,3,2,1,3,1,2,0,0,1,0.4,0.6,0.67,0.5,150,0.6,150,90,0,225,0,9,14,-1,1
+Rui Pedro dos Santos Patrício,30,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Portugal,90,0,90,Portugal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,4,23,90,0,0,0,-1,-1,-1,3
+William Silva de Carvalho,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Portugal,134,90,44,Portugal,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,2.01,45,67,0,0,0,-1,-1,-1,6
+Bryan Ruiz González,33,FIFA World Cup 2014 Brazil,2014,Forward,Costa Rica,434,180,254,Costa Rica,5,2,3,2,1,1,0,0,0,0,0,3,1,2,1,0,1,1,0,0.41,0,0.41,0.5,0.35,217,0.21,434,87,434,0,0.21,14,144,-1,1
+James Rodriguez,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,399,265,134,Colombia,5,3,1,6,4,2,2,0,2,1,0,2,2,0,3,1,2,1,0,1.8,0.45,1.35,1.36,1.34,67,0.68,133,80,399,200,0.23,1,10,-1,1
+Kléper Laveran Lima Ferreira,35,FIFA World Cup 2014 Brazil,2014,Defender,Portugal,127,90,37,Portugal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,1,0,0,0,0,0,0,2.13,42,64,64,0,1.42,-1,-1,-1,11
+Mateo Kovačić,24,FIFA World Cup 2014 Brazil,2014,Midfielder,Croatia,111,32,79,Croatia,3,0,1,0,0,0,0,0,0,0,0,1,0,1,4,3,1,0,0,0,0,0,0,0,0,3.24,28,37,0,0,0,-1,-1,-1,11
+Joel Nathaniel Campbell Samuels,26,FIFA World Cup 2014 Brazil,2014,Forward,Costa Rica,385,155,230,Costa Rica,5,2,3,1,0,1,1,0,1,0,0,3,1,2,1,0,1,0,0,0.47,0.23,0.23,0,0.39,385,0.23,385,77,0,385,0,45,36,-1,3
+António Alberto Bastos Pimparel,36,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Portugal,179,89,90,Portugal,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1.51,60,90,0,0,0,-1,-1,-1,4
+Riyad Mahrez,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,71,0,71,Algeria,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.27,71,71,0,0,0,-1,-1,-1,13
+Islam Slimani,30,FIFA World Cup 2014 Brazil,2014,Forward,Algeria,294,90,204,Algeria,4,1,2,2,1,1,1,0,1,0,0,0,0,0,5,1,4,0,0,0.92,0.31,0.61,1,0.44,147,1.53,59,74,0,294,0,7,16,-1,1
+Ahmed Musa,25,FIFA World Cup 2014 Brazil,2014,Forward,Nigeria,335,155,180,Nigeria,4,2,2,2,2,0,0,0,0,0,0,2,1,1,4,3,1,0,0,0.54,0,0.54,1.16,0,168,1.07,84,84,0,0,0,10,90,-1,1
+Yacine Brahimi,28,FIFA World Cup 2014 Brazil,2014,Forward,Algeria,160,71,89,Algeria,3,1,1,1,0,1,1,1,0,0,0,0,0,0,3,1,2,0,0,1.13,0.56,0.56,0,1.01,160,1.69,53,53,0,160,0,-1,-1,-1,4
+Nicolas N'Koulou,28,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,270,180,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,0,0,0,9,8,1,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,5
+Gianluigi Buffon,40,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Italy,180,180,0,Italy,2,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,6
+Andrea Barzagli,37,FIFA World Cup 2014 Brazil,2014,Defender,Italy,270,180,90,Italy,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,11
+Patrice Evra,37,FIFA World Cup 2014 Brazil,2014,Defender,France,360,270,90,France,4,3,1,0,0,0,1,1,0,0,0,2,2,0,3,1,2,1,0,0.25,0.25,0,0,0,0,0.75,120,90,360,360,0.25,137,30,40,16
+Dani Alves,35,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,360,270,90,Brazil,4,3,1,0,0,0,0,0,0,0,0,1,1,0,3,2,1,1,0,0,0,0,0,0,0,0.75,120,90,360,0,0.25,147,143,51,15
+Leonardo Bonucci,31,FIFA World Cup 2014 Brazil,2014,Defender,Italy,90,90,0,Italy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,17
+Giorgio Chiellini,34,FIFA World Cup 2014 Brazil,2014,Defender,Italy,270,180,90,Italy,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,15
+Sami Khedira,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Germany,346,180,166,Germany,5,2,2,1,0,1,1,0,1,0,0,2,1,1,2,2,0,1,0,0.52,0.26,0.26,0,0.54,346,0.52,173,69,346,346,0.26,31,23,-1,7
+Kwadwo Asamoah,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Ghana,270,90,180,Ghana,3,1,2,0,0,0,1,0,1,0,0,0,0,0,6,2,4,0,0,0.33,0.33,0,0,0,0,2,45,90,0,270,0,-1,-1,-1,8
+Gonzalo Higuain,30,FIFA World Cup 2014 Brazil,2014,Forward,Argentina,541,291,250,Argentina,7,3,3,1,1,0,1,1,0,0,0,4,3,1,3,1,2,0,0,0.33,0.17,0.17,0.31,0,541,0.5,180,77,0,541,0,53,42,-1,3
+Miralem Pjanić,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,270,90,180,Bosnia and Herzegovina,3,1,2,1,1,0,1,1,0,0,0,0,0,0,4,1,3,0,0,0.67,0.33,0.33,1,0,270,1.33,68,90,0,270,0,-1,-1,-1,3
+Juan Cuadrado,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,387,261,126,Colombia,5,3,2,1,0,1,4,4,0,1,0,2,2,0,4,1,3,0,0,1.16,0.93,0.23,0,0.71,387,0.93,97,77,0,97,0,43,1,-1,6
+Mario Mandžukić,32,FIFA World Cup 2014 Brazil,2014,Forward,Croatia,180,90,90,Croatia,2,1,1,2,0,2,0,0,0,0,0,1,0,1,3,3,0,0,0,1,0,1,0,2,90,1.5,60,90,0,0,0,-1,-1,-1,2
+Salvatore Sirigu,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Italy,90,0,90,Italy,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,3
+Keylor Navas,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Costa Rica,450,180,270,Costa Rica,5,2,3,0,0,0,0,0,0,0,0,3,1,2,1,0,1,1,0,0,0,0,0,0,0,0.2,450,90,450,0,0.2,107,110,2,4
+Fábio Alexandre da Silva Coentrão,30,FIFA World Cup 2014 Brazil,2014,Defender,Portugal,65,0,65,Portugal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,4.15,22,65,0,0,0,-1,-1,-1,16
+Mathieu Valbuena,34,FIFA World Cup 2014 Brazil,2014,Midfielder,France,335,253,82,France,4,3,1,1,0,1,1,0,1,0,0,2,2,0,2,1,1,0,0,0.54,0.27,0.27,0,1.1,335,0.54,168,84,0,335,0,30,22,-1,4
+Konstantinos Mitroglou,30,FIFA World Cup 2014 Brazil,2014,Forward,Greece,93,0,93,Greece,3,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,0,0,-1,-1,-1,14
+Šime Vrsaljko,26,FIFA World Cup 2014 Brazil,2014,Defender,Croatia,148,58,90,Croatia,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.22,74,74,0,0,0,-1,-1,-1,8
+Vincent Kompany,32,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,360,270,90,Belgium,4,3,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0.5,180,90,360,0,0.25,86,78,29,13
+Claudio Marchisio,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Italy,218,128,90,Italy,3,2,1,1,0,1,0,0,0,0,0,0,0,0,2,1,1,1,1,0.41,0,0.41,0,1,218,0.83,109,73,109,0,0.83,-1,-1,-1,2
+Stephan Lichtsteiner,34,FIFA World Cup 2014 Brazil,2014,Defender,Switzerland,360,180,180,Switzerland,4,2,2,0,0,0,1,0,1,0,0,1,0,1,6,6,0,0,0,0.25,0.25,0,0,0,0,1.5,60,90,0,360,0,144,28,69,7
+Danny Welbeck,27,FIFA World Cup 2014 Brazil,2014,Forward,England,132,61,71,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,2.05,44,66,0,0,0,-1,-1,-1,11
+Daniel Van Buyten,40,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,450,270,180,Belgium,5,3,2,0,0,0,0,0,0,0,0,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0.4,225,90,0,0,0,85,77,15,19
+Arthur Etienne Boka,35,FIFA World Cup 2014 Brazil,2014,Defender,Ivory Coast,255,75,180,Côte d'Ivoire,3,1,2,0,0,0,1,0,1,0,0,0,0,0,4,1,3,0,0,0.35,0.35,0,0,0,0,1.41,64,85,0,255,0,-1,-1,-1,4
+Federico Fernández,29,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,360,270,90,Argentina,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,102,63,43,14
+Jefferson Antonio Montero Vite,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Ecuador,230,63,167,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,1,0,0,0,0,0,0,0,0.78,115,77,230,0,0.39,-1,-1,-1,9
+Mile Jedinak,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Australia,270,180,90,Australia,3,2,1,1,1,0,0,0,0,1,0,0,0,0,8,6,2,2,0,0.33,0,0.33,0.5,0,270,2.67,34,90,135,0,0.67,-1,-1,-1,2
+Chung-Yong Lee,30,FIFA World Cup 2014 Brazil,2014,Midfielder,South Korea,244,154,90,South Korea,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,0,0,0,0,0,0,0,0,2.21,41,81,0,0,0,-1,-1,-1,9
+Ben Foster,35,FIFA World Cup 2014 Brazil,2014,Goalkeeper,England,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,7
+Yohan Cabaye,32,FIFA World Cup 2014 Brazil,2014,Midfielder,France,318,228,90,France,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,2,0,0,0,0,0,0,0,0.85,106,80,159,0,0.57,133,126,-1,13
+Phil Jagielka,36,FIFA World Cup 2014 Brazil,2014,Defender,England,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,13
+Leighton Baines,33,FIFA World Cup 2014 Brazil,2014,Defender,England,180,90,90,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,18
+Ross Barkley,24,FIFA World Cup 2014 Brazil,2014,Midfielder,England,145,29,116,England,3,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0.62,145,48,145,0,0.62,-1,-1,-1,12
+Kevin Mirallas,30,FIFA World Cup 2014 Brazil,2014,Forward,Belgium,193,45,148,Belgium,4,0,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0,0,0,0,0,0,0.47,193,48,0,0,0,-1,-1,-1,10
+Cristhian Stuani,31,FIFA World Cup 2014 Brazil,2014,Forward,Uruguay,177,113,64,Uruguay,4,1,0,0,0,0,0,0,0,0,0,1,0,1,4,4,0,0,0,0,0,0,0,0,0,2.03,44,44,0,0,0,-1,-1,-1,12
+Geoff Cameron,33,FIFA World Cup 2014 Brazil,2014,Defender,USMNT,270,90,180,USA,3,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0.67,135,90,270,0,0.33,-1,-1,-1,5
+Maya Yoshida,30,FIFA World Cup 2014 Brazil,2014,Defender,Japan,270,180,90,Japan,3,2,1,0,0,0,0,0,0,0,0,1,1,0,6,4,2,1,0,0,0,0,0,0,0,2,45,90,270,0,0.33,-1,-1,-1,6
+José Holebas,34,FIFA World Cup 2014 Brazil,2014,Defender,Greece,360,90,270,Greece,4,1,3,0,0,0,0,0,0,0,0,1,0,1,4,1,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,119,106,62,5
+Jordy Clasie,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,118,28,90,Netherlands,2,0,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,-1,-1,-1,8
+Juan Camilo Zúñiga Mosquera,32,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,360,270,90,Colombia,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,130,113,46,17
+Allan Nyom,30,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,90,90,0,Cameroon,1,1,0,0,0,0,1,1,0,0,0,0,0,0,4,4,0,0,0,1,1,0,0,0,0,4,23,90,0,90,0,-1,-1,-1,16
+Jeremain Lens,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,97,83,14,Netherlands,4,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,0,0,0,-1,-1,-1,11
+Daley Blind,28,FIFA World Cup 2014 Brazil,2014,Defender,Netherlands,610,360,250,Netherlands,7,4,3,1,0,1,3,0,3,0,0,4,3,1,4,1,3,1,0,0.59,0.44,0.15,0,0.36,610,0.59,153,87,610,203,0.15,56,11,34,5
+Luke Shaw,23,FIFA World Cup 2014 Brazil,2014,Defender,England,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,20
+Antonio Valencia,33,FIFA World Cup 2014 Brazil,2014,Defender,Ecuador,230,50,180,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,2,1,0,0,0,0,0,0,0.78,115,77,77,0,1.17,-1,-1,-1,4
+Marouane Fellaini,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,385,205,180,Belgium,5,2,2,1,1,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0.23,0,0.23,0.44,0,385,0.23,385,77,0,0,0,44,73,-1,4
+Wayne Rooney,32,FIFA World Cup 2014 Brazil,2014,Forward,England,194,90,104,England,3,1,1,1,0,1,1,1,0,0,0,1,0,1,4,2,2,0,0,0.93,0.46,0.46,0,0.87,194,1.86,49,65,0,194,0,-1,-1,-1,1
+Max-Alain Gradel,30,FIFA World Cup 2014 Brazil,2014,Forward,Ivory Coast,67,0,67,Côte d'Ivoire,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1.34,67,67,0,0,0,-1,-1,-1,14
+Morgan Schneiderlin,28,FIFA World Cup 2014 Brazil,2014,Midfielder,France,90,0,90,France,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,17
+Memphis Depay,24,FIFA World Cup 2014 Brazil,2014,Forward,Netherlands,176,131,45,Netherlands,4,1,0,2,1,1,1,0,1,0,0,2,2,0,1,0,1,0,0,1.53,0.51,1.02,0.69,2,88,0.51,176,44,0,176,0,-1,-1,-1,3
+Sergio Germán Romero,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Argentina,630,360,270,Argentina,7,4,3,0,0,0,0,0,0,0,0,4,3,1,3,1,2,0,0,0,0,0,0,0,0,0.43,210,90,0,0,0,131,94,18,10
+Faustino Marcos Alberto Rojo,28,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,555,285,270,Argentina,6,3,3,1,0,1,0,0,0,0,0,3,2,1,3,1,2,2,0,0.16,0,0.16,0,0.33,555,0.49,185,93,278,0,0.32,54,62,22,2
+Dejan Lovren,29,FIFA World Cup 2014 Brazil,2014,Defender,Croatia,270,90,180,Croatia,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,1,0,0,0,0,0,0,0,1.67,54,90,270,0,0.33,-1,-1,-1,7
+Georginio Wijnaldum,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,490,360,130,Netherlands,7,4,1,1,0,1,0,0,0,0,0,4,3,1,1,1,0,0,0,0.18,0,0.18,0,0.69,490,0.18,490,70,0,0,0,50,109,-1,4
+Adam David Lallana,30,FIFA World Cup 2014 Brazil,2014,Midfielder,England,91,10,81,England,3,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0.99,91,30,91,0,0.99,-1,-1,-1,10
+Jordan Henderson,28,FIFA World Cup 2014 Brazil,2014,Midfielder,England,160,73,87,England,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2.25,40,80,0,0,0,-1,-1,-1,15
+Jack Wilshere,26,FIFA World Cup 2014 Brazil,2014,Midfielder,England,90,17,73,England,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,-1,-1,-1,4
+Divock Okoth Origi,23,FIFA World Cup 2014 Brazil,2014,Forward,Belgium,245,156,89,Belgium,5,1,1,1,1,0,0,0,0,0,0,2,1,1,1,0,1,0,0,0.37,0,0.37,0.58,0,245,0.37,245,49,0,0,0,-1,-1,-1,6
+Thibaut Courtois,26,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Belgium,450,270,180,Belgium,5,3,2,0,0,0,0,0,0,0,0,2,1,1,2,1,1,0,0,0,0,0,0,0,0,0.4,225,90,0,0,0,87,79,14,12
+Gary Cahill,32,FIFA World Cup 2014 Brazil,2014,Defender,England,270,90,180,England,3,1,2,0,0,0,0,0,0,0,0,1,0,1,4,2,2,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,17
+Cesar Azpilicueta,29,FIFA World Cup 2014 Brazil,2014,Defender,Spain,180,180,0,Spain,2,2,0,0,0,0,0,0,0,0,0,0,0,0,7,7,0,0,0,0,0,0,0,0,0,3.5,26,90,0,0,0,-1,-1,-1,18
+Willian,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,120,101,19,Brazil,5,1,0,0,0,0,0,0,0,0,0,1,1,0,3,3,0,0,0,0,0,0,0,0,0,2.25,40,24,0,0,0,-1,-1,-1,9
+Eden Hazard,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,368,291,77,Belgium,5,3,1,0,0,0,2,2,0,0,0,2,1,1,3,2,1,1,0,0.49,0.49,0,0,0,0,0.73,123,74,368,184,0.24,82,8,-1,15
+Oscar dos Santos Emboaba Júnior,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,640,550,90,Brazil,7,6,1,2,2,0,2,1,1,0,0,1,1,0,13,12,1,1,0,0.56,0.28,0.28,0.33,0,320,1.83,49,91,640,320,0.14,24,20,-1,3
+Diego Da Silva Costa,29,FIFA World Cup 2014 Brazil,2014,Forward,Spain,127,127,0,Spain,2,2,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,2.83,32,64,0,0,0,-1,-1,-1,11
+Andre Ayew,28,FIFA World Cup 2014 Brazil,2014,Forward,Ghana,261,90,171,Ghana,3,1,2,2,1,1,0,0,0,0,0,0,0,0,6,2,4,0,0,0.69,0,0.69,1,0.53,131,2.07,44,87,0,0,0,-1,-1,-1,2
+Enner Remberto Valencia Lastra,28,FIFA World Cup 2014 Brazil,2014,Forward,Ecuador,270,90,180,Ecuador,3,1,2,3,0,3,0,0,0,0,0,1,1,0,2,0,2,1,0,1,0,1,0,1.5,90,0.67,135,90,270,0,0.33,-1,-1,-1,1
+Pedro Rodriguez,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,103,103,0,Spain,2,1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,4.37,21,52,0,0,0,-1,-1,-1,10
+Victor Moses,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Nigeria,141,0,141,Nigeria,2,0,2,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0.64,141,71,0,0,0,-1,-1,-1,9
+Asmir Begović,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Bosnia-Herzegovina,270,90,180,Bosnia and Herzegovina,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,5
+Paul Pogba,25,FIFA World Cup 2014 Brazil,2014,Midfielder,France,354,237,117,France,5,3,1,1,1,0,1,0,1,0,0,3,2,1,3,1,2,1,0,0.51,0.25,0.25,0.38,0,354,0.76,118,71,354,354,0.25,33,27,-1,2
+Chris Smalling,28,FIFA World Cup 2014 Brazil,2014,Defender,England,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,8
+Sung-Yeung Ki,29,FIFA World Cup 2014 Brazil,2014,Midfielder,South Korea,270,180,90,South Korea,3,2,1,0,0,0,1,1,0,0,0,0,0,0,6,5,1,1,0,0.33,0.33,0,0,0,0,2,45,90,270,270,0.33,-1,-1,-1,8
+Romelu Lukaku,25,FIFA World Cup 2014 Brazil,2014,Forward,Belgium,145,114,31,Belgium,4,2,0,1,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0.62,0,0.62,0.79,0,145,0.62,145,36,0,0,0,-1,-1,-1,1
+James Milner,32,FIFA World Cup 2014 Brazil,2014,Midfielder,England,76,0,76,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,-1,-1,-1,5
+Daniel Sturridge,29,FIFA World Cup 2014 Brazil,2014,Forward,England,260,80,180,England,3,1,2,1,1,0,0,0,0,0,0,1,0,1,4,2,2,0,0,0.35,0,0.35,1.13,0,260,1.38,65,87,0,0,0,-1,-1,-1,2
+Daryl Janmaat,29,FIFA World Cup 2014 Brazil,2014,Defender,Netherlands,334,134,200,Netherlands,5,1,2,0,0,0,2,1,1,0,0,3,2,1,3,0,3,0,0,0.54,0.54,0,0,0,0,0.81,111,67,0,167,0,100,3,54,16
+Nacer Chadli,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,70,25,45,Belgium,4,1,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,1.29,70,18,0,0,0,-1,-1,-1,14
+Bruno Martins Indi,26,FIFA World Cup 2014 Brazil,2014,Defender,Netherlands,458,233,225,Netherlands,6,2,3,0,0,0,0,0,0,0,0,3,2,1,3,1,2,2,0,0,0,0,0,0,0,0.59,153,76,229,0,0.39,134,146,35,15
+Wilfried Guemiand Bony,29,FIFA World Cup 2014 Brazil,2014,Forward,Ivory Coast,167,78,89,Côte d'Ivoire,3,1,1,2,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1.08,0,1.08,1.15,1.01,84,0.54,167,56,0,0,0,-1,-1,-1,1
+David Luiz,31,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,630,540,90,Brazil,7,6,1,2,2,0,1,0,1,0,0,1,1,0,13,12,1,0,0,0.43,0.14,0.29,0.33,0,315,1.86,48,90,0,630,0,23,46,76,2
+Sofiane Feghouli,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,360,90,270,Algeria,4,1,3,1,0,1,2,0,2,1,0,0,0,0,5,1,4,0,0,0.75,0.5,0.25,0,0.33,360,1.25,72,90,0,180,0,34,4,-1,5
+Glen Johnson,34,FIFA World Cup 2014 Brazil,2014,Defender,England,180,90,90,England,2,1,1,0,0,0,1,0,1,0,0,0,0,0,4,2,2,0,0,0.5,0.5,0,0,0,0,2,45,90,0,180,0,-1,-1,-1,19
+Matteo Darmian,28,FIFA World Cup 2014 Brazil,2014,Defender,Italy,270,180,90,Italy,3,2,1,0,0,0,0,0,0,0,0,0,0,0,3,2,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,14
+Phil Jones,26,FIFA World Cup 2014 Brazil,2014,Defender,England,90,0,90,England,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,6
+Mathieu Debuchy,33,FIFA World Cup 2014 Brazil,2014,Defender,France,360,270,90,France,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,128,132,47,12
+Mamadou Sakho,28,FIFA World Cup 2014 Brazil,2014,Defender,France,289,162,127,France,4,2,2,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0.31,289,72,0,0,0,136,130,12,15
+Jordan Ayew,27,FIFA World Cup 2014 Brazil,2014,Forward,Ghana,116,59,57,Ghana,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,2.33,39,39,116,0,0.78,-1,-1,-1,11
+Martín Cáceres,31,FIFA World Cup 2014 Brazil,2014,Defender,Uruguay,360,180,180,Uruguay,4,2,2,0,0,0,0,0,0,0,0,1,0,1,6,4,2,1,0,0,0,0,0,0,0,1.5,60,90,360,0,0.25,112,100,73,7
+Per Mertesacker,33,FIFA World Cup 2014 Brazil,2014,Defender,Germany,374,240,134,Germany,6,3,1,0,0,0,0,0,0,0,0,3,2,1,2,2,0,0,0,0,0,0,0,0,0,0.48,187,62,0,0,0,64,57,21,10
+Muhamed Bešić,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,270,90,180,Bosnia and Herzegovina,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,-1,-1,-1,10
+Carlos Sánchez,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,360,270,90,Colombia,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,1,0,0,0,0,0,0,0,0.75,120,90,360,0,0.25,124,111,-1,15
+Juan Carlos Paredes Reasco,31,FIFA World Cup 2014 Brazil,2014,Defender,Ecuador,270,90,180,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,1,0,0,0,0,0,0,0,0.67,135,90,270,0,0.33,-1,-1,-1,6
+Ramires Santos do Nascimento,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,217,190,27,Brazil,7,2,0,0,0,0,1,1,0,0,0,1,1,0,4,4,0,1,0,0.41,0.41,0,0,0,0,1.66,54,31,217,217,0.41,-1,-1,-1,13
+John Michael Nchekwube Obinna,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Nigeria,360,180,180,Nigeria,4,2,2,0,0,0,0,0,0,0,0,2,1,1,4,3,1,1,0,0,0,0,0,0,0,1,90,90,360,0,0.25,99,68,-1,8
+Éderzito António Macedo Lopes,30,FIFA World Cup 2014 Brazil,2014,Forward,Portugal,205,69,136,Portugal,3,1,0,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,0,2.63,34,68,0,0,0,-1,-1,-1,9
+Cheik Ismaël Tioté,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Ivory Coast,241,90,151,Côte d'Ivoire,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.49,60,80,241,0,0.37,-1,-1,-1,10
+Osazemwinde Peter Odemwingie,37,FIFA World Cup 2014 Brazil,2014,Forward,Nigeria,281,170,111,Nigeria,4,2,1,1,1,0,0,0,0,0,0,2,1,1,4,3,1,0,0,0.32,0,0.32,0.53,0,281,1.28,70,70,0,0,0,16,88,-1,2
+Martín Gastón Demichelis,37,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,270,90,180,Argentina,3,1,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,90,270,0,0.33,-1,-1,-1,7
+Segundo Víctor Ibarbo Guerrero,28,FIFA World Cup 2014 Brazil,2014,Forward,Colombia,189,143,46,Colombia,3,2,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.48,189,63,0,0,0,-1,-1,-1,13
+Nikica Jelavić,33,FIFA World Cup 2014 Brazil,2014,Forward,Croatia,94,16,78,Croatia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,3.83,24,47,0,0,0,-1,-1,-1,12
+Alexandre Dimitri Song-Billong,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Cameroon,119,40,79,Cameroon,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,1.51,60,60,60,0,1.51,-1,-1,-1,8
+Luís Carlos Almeida da Cunha,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Portugal,270,90,180,Portugal,3,1,2,1,0,1,0,0,0,0,0,0,0,0,7,1,6,0,0,0.33,0,0.33,0,0.5,270,2.33,39,90,0,0,0,-1,-1,-1,2
+Christian Atsu Twasam,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Ghana,240,78,162,Ghana,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,1.88,48,80,0,0,0,-1,-1,-1,10
+Ron Vlaar,33,FIFA World Cup 2014 Brazil,2014,Defender,Netherlands,630,360,270,Netherlands,7,4,3,0,0,0,0,0,0,0,0,4,3,1,4,1,3,0,0,0,0,0,0,0,0,0.57,158,90,0,0,0,73,139,32,14
+Jason Davidson,27,FIFA World Cup 2014 Brazil,2014,Defender,Australia,270,180,90,Australia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,7
+Saphir Sliti Taïder,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,168,0,168,Algeria,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.07,84,84,0,0,0,-1,-1,-1,14
+Mauricio Aníbal Isla Isla,30,FIFA World Cup 2014 Brazil,2014,Defender,Chile,360,90,270,Chile,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,111,48,41,7
+Robin van Persie,35,FIFA World Cup 2014 Brazil,2014,Forward,Netherlands,518,262,256,Netherlands,6,3,3,4,0,4,0,0,0,1,0,3,2,1,4,1,3,2,0,0.69,0,0.69,0,1.41,130,0.69,130,86,259,0,0.35,5,97,-1,1
+Samuel Eto'o Fils,37,FIFA World Cup 2014 Brazil,2014,Forward,Cameroon,90,0,90,Cameroon,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,10
+Mario Balotelli,28,FIFA World Cup 2014 Brazil,2014,Forward,Italy,209,136,73,Italy,3,2,1,1,0,1,0,0,0,0,0,0,0,0,2,1,1,2,0,0.43,0,0.43,0,1.23,209,0.86,105,70,105,0,0.86,-1,-1,-1,1
+Lukas Podolski,33,FIFA World Cup 2014 Brazil,2014,Forward,Germany,54,8,46,Germany,2,0,1,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,27,0,0,0,-1,-1,-1,14
+Georgios Samaras,33,FIFA World Cup 2014 Brazil,2014,Forward,Greece,360,90,270,Greece,4,1,3,1,1,0,1,1,0,1,0,1,0,1,4,1,3,1,0,0.5,0.25,0.25,1,0,360,1,90,90,360,360,0.25,39,25,-1,1
+Paulinho,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Brazil,386,340,46,Brazil,6,4,1,0,0,0,0,0,0,0,0,1,1,0,7,6,1,0,0,0,0,0,0,0,0,1.63,55,64,0,0,0,81,83,-1,16
+Suk-Young Yoon,28,FIFA World Cup 2014 Brazil,2014,Defender,South Korea,270,180,90,South Korea,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,4
+Wilson Roberto Palacios Suazo,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Honduras,133,90,43,Honduras,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,2,1,0,0,0,0,0,0,2.03,44,67,67,0,1.35,-1,-1,-1,8
+Giorgios Karagounis,41,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,229,78,151,Greece,4,1,1,0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0,0,0,0,0,0,0.79,115,57,0,0,0,-1,-1,-1,15
+Gary Alexis Medel Soto,31,FIFA World Cup 2014 Brazil,2014,Defender,Chile,378,90,288,Chile,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,0.71,126,95,0,0,0,113,124,39,8
+Diego Alfredo Lugano Morena,37,FIFA World Cup 2014 Brazil,2014,Defender,Uruguay,90,90,0,Uruguay,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,2,0,0,0,0,0,0,0,3,30,90,45,0,2,-1,-1,-1,5
+Jonathan de Guzmán,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,230,0,230,Netherlands,3,0,3,0,0,0,1,0,1,0,0,1,0,1,3,0,3,2,0,0.39,0.39,0,0,0,0,1.17,77,77,115,230,0.78,-1,-1,-1,13
+Ashkan Dejagah,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Iran,226,73,153,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.8,113,75,0,0,0,-1,-1,-1,8
+Chu-Young Park,33,FIFA World Cup 2014 Brazil,2014,Forward,South Korea,113,57,56,South Korea,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,2.39,38,57,0,0,0,-1,-1,-1,11
+Pablo Estífer Armero,31,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,416,236,180,Colombia,5,3,2,1,1,0,0,0,0,0,0,2,2,0,3,0,3,1,0,0.22,0,0.22,0.38,0,416,0.65,139,83,416,0,0.22,46,112,37,5
+Joseph Phillip Yobo,38,FIFA World Cup 2014 Brazil,2014,Defender,Nigeria,331,180,151,Nigeria,4,2,1,0,0,0,0,0,0,0,0,2,1,1,4,3,1,0,0,0,0,0,0,0,0,1.09,83,83,0,0,0,96,89,65,13
+Alireza Haghighi,30,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Iran,270,90,180,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,2
+Teófilo Antonio Gutiérrez Roncancio,33,FIFA World Cup 2014 Brazil,2014,Forward,Colombia,304,234,70,Colombia,4,3,1,1,1,0,1,1,0,0,0,2,2,0,3,1,2,0,0,0.59,0.3,0.3,0.38,0,304,0.89,101,76,0,304,0,20,17,-1,3
+Abel Enrique Aguilar Tapia,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,238,238,0,Colombia,3,3,0,0,0,0,2,2,0,0,0,2,2,0,1,1,0,0,0,0.76,0.76,0,0,0,0,0.38,238,79,0,119,0,-1,-1,-1,16
+Hélder Manuel Marques Postiga,36,FIFA World Cup 2014 Brazil,2014,Forward,Portugal,16,0,16,Portugal,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,-1,-1,-1,18
+Omar Alejandro González,29,FIFA World Cup 2014 Brazil,2014,Defender,USMNT,180,90,90,USA,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0.5,180,60,180,0,0.5,-1,-1,-1,13
+Raïs M'Bolhi Ouhab,32,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Algeria,360,90,270,Algeria,4,1,3,0,0,0,0,0,0,0,0,0,0,0,5,1,4,0,0,0,0,0,0,0,0,1.25,72,90,0,0,0,79,72,66,6
+Luis Fernando Garrido,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Honduras,161,71,90,Honduras,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,2,3,1,0,0,0,0,0,0,0,2.8,32,81,161,0,0.56,-1,-1,-1,10
+Roy Miller Hernández,33,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,90,90,0,Costa Rica,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,14
+Jackson Arley Martínez Valencia,31,FIFA World Cup 2014 Brazil,2014,Forward,Colombia,194,104,90,Colombia,3,1,1,2,0,2,0,0,0,0,0,2,2,0,1,0,1,0,0,0.93,0,0.93,0,2,97,0.46,194,65,0,0,0,-1,-1,-1,2
+Brayan Antonio Beckeles,32,FIFA World Cup 2014 Brazil,2014,Defender,Honduras,270,180,90,Honduras,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,5,3,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,6
+Enzo Nicolás Pérez,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Argentina,224,57,167,Argentina,3,0,2,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,75,0,0,0,-1,-1,-1,8
+Ruben Filipe Marques Amorim,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Portugal,90,90,0,Portugal,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,5
+Juan Fernando Quintero Paniagua,25,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,93,37,56,Colombia,3,0,1,1,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0.97,0,0.97,2.43,0,93,1.94,47,31,0,0,0,-1,-1,-1,4
+Rafik Halliche,32,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,367,90,277,Algeria,4,1,3,1,0,1,0,0,0,0,0,0,0,0,6,1,5,1,0,0.25,0,0.25,0,0.32,367,1.47,61,92,367,0,0.25,32,71,67,3
+Ezequiel Garay,31,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,630,360,270,Argentina,7,4,3,0,0,0,0,0,0,0,0,4,3,1,3,1,2,1,0,0,0,0,0,0,0,0.43,210,90,630,0,0.14,127,64,19,16
+Ogenyi Eddy Onazi,25,FIFA World Cup 2014 Brazil,2014,Midfielder,Nigeria,329,180,149,Nigeria,4,2,2,0,0,0,0,0,0,0,0,2,1,1,3,3,0,0,0,0,0,0,0,0,0,0.82,110,82,0,0,0,75,92,-1,10
+Godfrey Oboabona Itama,28,FIFA World Cup 2014 Brazil,2014,Defender,Nigeria,29,0,29,Nigeria,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,-1,-1,-1,6
+Landry Joel Tsafack N'Guémo,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Cameroon,90,90,0,Cameroon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,4,23,90,0,0,0,-1,-1,-1,13
+Avdija Vršajević,32,FIFA World Cup 2014 Brazil,2014,Defender,Bosnia-Herzegovina,90,90,0,Bosnia and Herzegovina,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,90,1,90,90,0,0,0,-1,-1,-1,2
+Néstor Fernando Muslera Micol,32,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Uruguay,360,180,180,Uruguay,4,2,2,0,0,0,0,0,0,0,0,1,0,1,6,4,2,1,0,0,0,0,0,0,0,1.5,60,90,360,0,0.25,103,101,74,4
+Aurélien Bayard Chedjou Fongang,33,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,136,46,90,Cameroon,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1.32,68,68,0,0,0,-1,-1,-1,4
+Wesley Sneijder,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Netherlands,525,345,180,Netherlands,6,4,2,1,1,0,1,0,1,0,0,3,3,0,4,1,3,0,0,0.34,0.17,0.17,0.26,0,525,0.69,131,88,0,525,0,51,41,-1,7
+Kenneth Josiah Omeruo,24,FIFA World Cup 2014 Brazil,2014,Defender,Nigeria,360,180,180,Nigeria,4,2,2,0,0,0,0,0,0,0,0,2,1,1,4,3,1,1,0,0,0,0,0,0,0,1,90,90,360,0,0.25,76,69,59,5
+Charles-Hubert Itandje,35,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Cameroon,270,180,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,0,0,0,9,8,1,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,2
+Carl Medjani,33,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,264,90,174,Algeria,3,1,2,0,0,0,1,0,1,0,0,0,0,0,5,1,4,0,0,0.34,0.34,0,0,0,0,1.7,53,88,0,264,0,-1,-1,-1,12
+Bruno Alves,36,FIFA World Cup 2014 Brazil,2014,Defender,Portugal,270,90,180,Portugal,3,1,2,0,0,0,0,0,0,0,0,0,0,0,7,1,6,0,0,0,0,0,0,0,0,2.33,39,90,0,0,0,-1,-1,-1,17
+Raul José Trindade Meireles,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Portugal,159,0,159,Portugal,2,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,2.83,32,80,0,0,0,-1,-1,-1,14
+Theofanis Gekas,38,FIFA World Cup 2014 Brazil,2014,Forward,Greece,152,12,140,Greece,4,0,1,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,0,0,0,0,1.18,76,38,0,0,0,-1,-1,-1,11
+Stéphane M'Bia Etoundi,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Cameroon,270,180,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,0,0,0,9,8,1,1,0,0,0,0,0,0,0,3,30,90,270,0,0.33,-1,-1,-1,7
+John Boye,31,FIFA World Cup 2014 Brazil,2014,Defender,Ghana,270,90,180,Ghana,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,4
+Anel Hadžić,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,61,61,0,Bosnia and Herzegovina,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,0,0,-1,-1,-1,17
+Alain Didier Zokora-Déguy,37,FIFA World Cup 2014 Brazil,2014,Midfielder,Ivory Coast,180,90,90,Côte d'Ivoire,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,2,0,0,0,0,0,0,0,1.5,60,90,90,0,1,-1,-1,-1,8
+Essaïd Belkalem,29,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,181,90,91,Algeria,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.5,181,60,0,0,0,-1,-1,-1,8
+Carlos Yaír Costly Molina,36,FIFA World Cup 2014 Brazil,2014,Forward,Honduras,220,130,90,Honduras,3,2,1,1,1,0,0,0,0,0,0,0,0,0,7,4,3,0,0,0.41,0,0.41,0.69,0,220,2.86,31,73,0,0,0,-1,-1,-1,1
+Dirk Kuijt,38,FIFA World Cup 2014 Brazil,2014,Forward,Netherlands,449,359,90,Netherlands,5,4,1,0,0,0,0,0,0,0,0,4,3,1,1,1,0,0,0,0,0,0,0,0,0,0.2,449,90,0,0,0,148,117,-1,9
+Abdul Majeed Waris,27,FIFA World Cup 2014 Brazil,2014,Forward,Ghana,71,0,71,Ghana,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.27,71,71,71,0,1.27,-1,-1,-1,15
+Souleymane Bamba,33,FIFA World Cup 2014 Brazil,2014,Defender,Ivory Coast,270,90,180,Côte d'Ivoire,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.33,68,90,270,0,0.33,-1,-1,-1,5
+Giancarlo González,30,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,450,180,270,Costa Rica,5,2,3,0,0,0,0,0,0,0,0,3,1,2,1,0,1,2,0,0,0,0,0,0,0,0.2,450,90,225,0,0.4,114,148,3,8
+Tim Cahill,38,FIFA World Cup 2014 Brazil,2014,Forward,Australia,159,69,90,Australia,2,1,1,2,1,1,0,0,0,0,0,0,0,0,5,3,2,2,0,1.13,0,1.13,1.3,1,80,2.83,32,80,80,0,1.13,-1,-1,-1,1
+Jerry Ricardo Bengtson Bodden,31,FIFA World Cup 2014 Brazil,2014,Forward,Honduras,226,180,46,Honduras,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,0,2.39,38,75,226,0,0.4,-1,-1,-1,11
+Tilson Oswaldo Minda Suscal,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Ecuador,173,90,83,Ecuador,2,1,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,0.52,173,87,0,0,0,-1,-1,-1,13
+Jorge Aarón Claros Juárez,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Honduras,212,180,32,Honduras,3,2,0,0,0,0,0,0,0,0,0,0,0,0,6,5,1,0,0,0,0,0,0,0,0,2.55,35,71,0,0,0,-1,-1,-1,13
+Carlos Enrique Valdés Parra,33,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,90,0,90,Colombia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,8
+Egídio Raúl Arévalo Ríos,36,FIFA World Cup 2014 Brazil,2014,Midfielder,Uruguay,360,180,180,Uruguay,4,2,2,0,0,0,0,0,0,0,0,1,0,1,6,4,2,1,0,0,0,0,0,0,0,1.5,60,90,360,0,0.25,109,122,-1,10
+Reza Ghoochannejhad Nournia,31,FIFA World Cup 2014 Brazil,2014,Forward,Iran,270,90,180,Iran,3,1,2,1,0,1,0,0,0,0,0,1,1,0,3,0,3,0,0,0.33,0,0.33,0,0.5,270,1,90,90,0,0,0,-1,-1,-1,1
+Tommy Oar,26,FIFA World Cup 2014 Brazil,2014,Forward,Australia,206,138,68,Australia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,4,2,0,0,0,0,0,0,0,0,2.62,34,69,0,0,0,-1,-1,-1,11
+Benoît Assou-Ekotto,34,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,180,90,90,Cameroon,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,4,1,0,0,0,0,0,0,0,0,2.5,36,90,0,0,0,-1,-1,-1,3
+Juan Carlos García Barahona,30,FIFA World Cup 2014 Brazil,2014,Defender,Honduras,134,134,0,Honduras,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,2.69,34,67,0,0,0,-1,-1,-1,14
+Celso Borges,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Costa Rica,438,168,270,Costa Rica,5,2,3,0,0,0,0,0,0,0,0,3,1,2,1,0,1,0,0,0,0,0,0,0,0,0.21,438,88,0,0,0,126,147,-1,9
+Aïssa Mandi,26,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,270,90,180,Algeria,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,18
+Felipe Alejandro Gutiérrez Leiva,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Chile,135,30,105,Chile,4,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,34,0,0,0,-1,-1,-1,12
+Francisco Guillermo Ochoa Magaña,33,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Mexico,360,90,270,Mexico,4,1,3,0,0,0,0,0,0,0,0,2,1,1,2,0,2,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,95,49,27,5
+Óscar Esau Duarte Gaitán,29,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,336,156,180,Costa Rica,4,2,2,1,0,1,0,0,0,0,0,2,1,1,1,0,1,2,1,0.27,0,0.27,0,0.5,336,0.27,336,84,168,0,0.54,27,138,7,2
+Felipe Salvador Caicedo Corozo,30,FIFA World Cup 2014 Brazil,2014,Forward,Ecuador,152,0,152,Ecuador,3,0,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,1.18,76,51,0,0,0,-1,-1,-1,11
+Mathew Ryan,26,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Australia,270,180,90,Australia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,3
+Panagiotis Giorgios Kone,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,171,12,159,Greece,3,1,2,0,0,0,0,0,0,0,0,1,0,1,2,0,2,0,0,0,0,0,0,0,0,1.05,86,57,0,0,0,-1,-1,-1,9
+Mehdi Lacen,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,122,0,122,Algeria,3,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.74,122,41,0,0,0,-1,-1,-1,9
+Haris Medunjanin,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,80,0,80,Bosnia and Herzegovina,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1.13,80,40,80,0,1.13,-1,-1,-1,8
+Stipe Pletikosa,39,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Croatia,270,90,180,Croatia,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,0,0,0,0,0,0,0,0,1.67,54,90,0,0,0,-1,-1,-1,4
+Ricardo Miguel Moreira da Costa,37,FIFA World Cup 2014 Brazil,2014,Defender,Portugal,134,0,134,Portugal,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,2.01,45,67,0,0,0,-1,-1,-1,8
+Álvaro Daniel Pereira Barragán,32,FIFA World Cup 2014 Brazil,2014,Defender,Uruguay,206,90,116,Uruguay,3,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,0,0,0,0,0,0,0,0,1.31,69,69,0,0,0,-1,-1,-1,15
+Jorge Sammir Cruz Campos,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Croatia,72,0,72,Croatia,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,-1,-1,-1,14
+Xavier Hernández Creus,38,FIFA World Cup 2014 Brazil,2014,Midfielder,Spain,90,90,0,Spain,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0,0,0,0,0,0,5,18,90,0,0,0,-1,-1,-1,15
+Cristian Gabriel Rodríguez Barrotti,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Uruguay,334,166,168,Uruguay,4,2,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,0,0,0,0,0,0,0,0,1.35,67,84,0,0,0,110,98,-1,8
+Ramon Olamilekan Azeez,25,FIFA World Cup 2014 Brazil,2014,Midfielder,Nigeria,69,0,69,Nigeria,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,-1,-1,-1,11
+Orestis Karnezis,33,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Greece,294,24,270,Greece,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,0,3,0,0,0,0,0,0,0,0,0.92,98,74,0,0,0,120,107,55,4
+Francisco Andrés Silva Gajardo,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Chile,250,0,250,Chile,3,0,3,0,0,0,0,0,0,0,0,1,0,1,1,0,1,2,0,0,0,0,0,0,0,0.36,250,83,125,0,0.72,-1,-1,-1,13
+Fernando Rubén Gago,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Argentina,343,249,94,Argentina,6,2,1,0,0,0,0,0,0,0,0,3,3,0,3,1,2,0,0,0,0,0,0,0,0,0.79,114,57,0,0,0,72,60,-1,5
+Masoud Shojaei Soleimani,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Iran,123,1,122,Iran,3,0,2,0,0,0,0,0,0,0,0,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0.73,123,41,123,0,0.73,-1,-1,-1,12
+Danijel Pranjić,36,FIFA World Cup 2014 Brazil,2014,Midfielder,Croatia,164,74,90,Croatia,2,1,1,0,0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0.55,0.55,0,0,0,0,0.55,164,82,0,164,0,-1,-1,-1,13
+Javad Nekounam,37,FIFA World Cup 2014 Brazil,2014,Midfielder,Iran,270,90,180,Iran,3,1,2,0,0,0,1,0,1,0,0,1,1,0,3,0,3,1,0,0.33,0.33,0,0,0,0,1,90,90,270,270,0.33,-1,-1,-1,7
+Stefan de Vrij,26,FIFA World Cup 2014 Brazil,2014,Defender,Netherlands,617,360,257,Netherlands,7,4,3,1,0,1,0,0,0,0,0,4,3,1,4,1,3,1,0,0.15,0,0.15,0,0.35,617,0.58,154,88,617,0,0.15,55,140,33,6
+Mehdi Mostefa Sbaa,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,180,0,180,Algeria,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,15
+Anthony Vanden Borre,30,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,90,0,90,Belgium,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,20
+Benjamin Moukandjo Bilé,30,FIFA World Cup 2014 Brazil,2014,Forward,Cameroon,238,148,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,7,1,0,0,0,0,0,0,0,0,3.03,30,79,0,0,0,-1,-1,-1,12
+Vincent Enyeama,36,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Nigeria,360,180,180,Nigeria,4,2,2,0,0,0,0,0,0,0,0,2,1,1,4,3,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,74,53,57,3
+Henri Bedimo Nsamè,34,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,90,90,0,Cameroon,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,4,23,90,0,0,0,-1,-1,-1,15
+Eiji Kawashima,35,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Japan,270,180,90,Japan,3,2,1,0,0,0,0,0,0,0,0,1,1,0,6,4,2,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,3
+Jonathan Mensah,28,FIFA World Cup 2014 Brazil,2014,Defender,Ghana,270,90,180,Ghana,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,2,4,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,5
+Ezequiel Iván Lavezzi,33,FIFA World Cup 2014 Brazil,2014,Forward,Argentina,358,159,199,Argentina,6,2,2,0,0,0,1,1,0,0,0,4,3,1,1,0,1,0,0,0.25,0.25,0,0,0,0,0.25,358,60,0,358,0,71,31,-1,6
+Yeltsin Ignacio Tejeda Valverde,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Costa Rica,395,156,239,Costa Rica,5,2,3,0,0,0,0,0,0,0,0,3,1,2,1,0,1,1,0,0,0,0,0,0,0,0.23,395,79,395,0,0.23,149,145,-1,11
+Mohammed Rabiu,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Ghana,225,71,154,Ghana,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,1,0,0,0,0,0,0,0,1.6,56,75,225,0,0.4,-1,-1,-1,9
+Emmanuel Agyemang-Badu,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Ghana,102,0,102,Ghana,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,1.76,51,51,0,0,0,-1,-1,-1,13
+Gabriel Alejandro Paletta,32,FIFA World Cup 2014 Brazil,2014,Defender,Italy,90,0,90,Italy,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,16
+Ignazio Abate,31,FIFA World Cup 2014 Brazil,2014,Defender,Italy,90,90,0,Italy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,4
+Mattia De Sciglio,25,FIFA World Cup 2014 Brazil,2014,Defender,Italy,90,90,0,Italy,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,90,90,90,0,1,-1,-1,-1,5
+Keisuke Honda,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Japan,270,180,90,Japan,3,2,1,1,0,1,1,1,0,0,0,1,1,0,6,4,2,0,0,0.67,0.33,0.33,0,1,270,2,45,90,0,270,0,-1,-1,-1,1
+Lucas Biglia,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Argentina,257,77,180,Argentina,7,1,2,0,0,0,0,0,0,0,0,4,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,37,257,0,0.35,-1,-1,-1,9
+Yuto Nagatomo,32,FIFA World Cup 2014 Brazil,2014,Defender,Japan,270,180,90,Japan,3,2,1,0,0,0,1,0,1,0,0,1,1,0,6,4,2,0,0,0.33,0.33,0,0,0,0,2,45,90,0,270,0,-1,-1,-1,7
+Antonio Candreva,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Italy,136,57,79,Italy,2,1,1,0,0,0,1,0,1,0,0,0,0,0,2,1,1,0,0,0.66,0.66,0,0,0,0,1.32,68,68,0,136,0,-1,-1,-1,9
+Miguel Veloso,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Portugal,226,90,136,Portugal,3,1,2,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,0,0,0,0,0,0,0,2.39,38,75,0,0,0,-1,-1,-1,13
+Senad Lulić,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,148,0,148,Bosnia and Herzegovina,2,0,2,0,0,0,1,0,1,0,0,0,0,0,3,0,3,0,0,0.61,0.61,0,0,0,0,1.82,49,74,0,148,0,-1,-1,-1,12
+Hugo Armando Campagnaro,38,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,46,46,0,Argentina,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,-1,-1,-1,15
+Vassilis Torosidis,33,FIFA World Cup 2014 Brazil,2014,Defender,Greece,360,90,270,Greece,4,1,3,0,0,0,0,0,0,0,0,1,0,1,4,1,3,1,0,0,0,0,0,0,0,1,90,90,360,0,0.25,118,105,63,6
+Djamel Eddine Mesbah,33,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,180,90,90,Algeria,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,0,0,0,0,0,1.5,60,90,180,0,0.5,-1,-1,-1,7
+Cristián Zapata,32,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,360,270,90,Colombia,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,0,0,0,0,0,0,0,0,0.75,120,90,0,0,0,63,114,45,18
+Sulley Ali Muntari,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Ghana,180,90,90,Ghana,2,1,1,0,0,0,1,0,1,0,0,0,0,0,4,2,2,2,0,0.5,0.5,0,0,0,0,2,45,90,90,180,1,-1,-1,-1,7
+Rafael Márquez Álvarez,39,FIFA World Cup 2014 Brazil,2014,Defender,Mexico,360,90,270,Mexico,4,1,3,1,0,1,1,0,1,0,0,2,1,1,2,0,2,2,0,0.5,0.25,0.25,0,0.33,360,0.5,180,90,180,360,0.5,36,32,26,2
+Gervais Lombe Yao Kouassi,31,FIFA World Cup 2014 Brazil,2014,Forward,Ivory Coast,263,90,173,Côte d'Ivoire,3,1,2,2,1,1,1,0,1,0,0,0,0,0,4,1,3,0,0,1.03,0.34,0.68,1,0.52,132,1.37,66,88,0,263,0,-1,-1,-1,2
+José María Basanta,34,FIFA World Cup 2014 Brazil,2014,Defender,Argentina,75,75,0,Argentina,2,1,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0,0,-1,-1,-1,18
+Fredy Alejandro Guarín Vásquez,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,189,9,180,Colombia,3,0,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,1,0,0,0,0,0,0,0,1.43,63,63,189,0,0.48,-1,-1,-1,19
+Maicon Douglas Sisenando,37,FIFA World Cup 2014 Brazil,2014,Defender,Brazil,270,270,0,Brazil,3,3,0,0,0,0,0,0,0,0,0,0,0,0,10,10,0,0,0,0,0,0,0,0,0,3.33,27,90,0,0,0,-1,-1,-1,19
+Lazaros Christodoulopoulos,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,180,90,90,Greece,2,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,16
+Miroslav Klose,40,FIFA World Cup 2014 Brazil,2014,Forward,Germany,280,109,171,Germany,5,1,2,2,1,1,0,0,0,0,0,3,1,2,0,0,0,0,0,0.64,0,0.64,0.83,0.53,140,0,0,56,0,0,0,6,52,-1,5
+Álvaro Rafael González Luengo,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Uruguay,266,109,157,Uruguay,4,1,2,0,0,0,0,0,0,0,0,1,0,1,4,2,2,0,0,0,0,0,0,0,0,1.35,67,67,0,0,0,-1,-1,-1,14
+Walter Alejandro Gargano Guevara,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Uruguay,60,60,0,Uruguay,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,3,30,60,60,0,1.5,-1,-1,-1,9
+Ioannis Fetfatzidis,27,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,74,0,74,Greece,2,0,1,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0,1.22,74,37,0,0,0,-1,-1,-1,13
+Mario Alberto Yepes Díaz,42,FIFA World Cup 2014 Brazil,2014,Defender,Colombia,360,270,90,Colombia,4,3,1,0,0,0,0,0,0,0,0,2,2,0,3,1,2,1,0,0,0,0,0,0,0,0.75,120,90,360,0,0.25,123,115,44,14
+Boubacar Copa Barry,38,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Ivory Coast,270,90,180,Côte d'Ivoire,3,1,2,0,0,0,0,0,0,0,0,0,0,0,4,1,3,0,0,0,0,0,0,0,0,1.33,68,90,0,0,0,-1,-1,-1,3
+Eyong Tarkang Enoh,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Cameroon,270,180,90,Cameroon,3,2,1,0,0,0,0,0,0,0,0,0,0,0,9,8,1,1,0,0,0,0,0,0,0,3,30,90,270,0,0.33,-1,-1,-1,9
+Tino-Sven Sušić,26,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,105,79,26,Bosnia and Herzegovina,2,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.86,0.86,0,0,0,0,0,0,53,0,105,0,-1,-1,-1,7
+Andy Aryel Najar Rodríguez,25,FIFA World Cup 2014 Brazil,2014,Midfielder,Honduras,71,13,58,Honduras,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,2.54,36,36,0,0,0,-1,-1,-1,7
+Ehsan Hajsafi,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Iran,241,90,151,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.75,121,80,0,0,0,-1,-1,-1,10
+Matt McKay,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Australia,180,180,0,Australia,2,2,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,3,30,90,0,0,0,-1,-1,-1,15
+Oliver Bozanić,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Australia,111,111,0,Australia,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,0,0,0,0,0,0,0,0,3.24,28,56,0,0,0,-1,-1,-1,14
+Alex Wilkinson,34,FIFA World Cup 2014 Brazil,2014,Defender,Australia,270,180,90,Australia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,5
+Adam Taggart,25,FIFA World Cup 2014 Brazil,2014,Forward,Australia,59,59,0,Australia,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.53,59,30,0,0,0,-1,-1,-1,13
+Ivan Franjić,31,FIFA World Cup 2014 Brazil,2014,Defender,Australia,49,0,49,Australia,1,0,1,0,0,0,1,0,1,0,0,0,0,0,2,0,2,0,0,1.84,1.84,0,0,0,0,3.67,25,49,0,49,0,-1,-1,-1,6
+Mark Milligan,33,FIFA World Cup 2014 Brazil,2014,Midfielder,Australia,90,0,90,Australia,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,2,45,90,90,0,1,-1,-1,-1,9
+Matthew Špiranović,30,FIFA World Cup 2014 Brazil,2014,Defender,Australia,270,180,90,Australia,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,6,2,1,0,0,0,0,0,0,0,2.67,34,90,270,0,0.33,-1,-1,-1,4
+Frederico Chaves Guedes,34,FIFA World Cup 2014 Brazil,2014,Forward,Brazil,471,381,90,Brazil,6,5,1,1,0,1,0,0,0,0,0,1,1,0,9,8,1,0,0,0.19,0,0.19,0,1,471,1.72,52,79,0,0,0,49,84,-1,6
+João Alves de Assis Silva,31,FIFA World Cup 2014 Brazil,2014,Forward,Brazil,138,138,0,Brazil,3,1,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,1,0,0,0,0,0,0,0,1.3,69,46,138,0,0.65,-1,-1,-1,8
+Frickson Rafael Erazo Vivero,30,FIFA World Cup 2014 Brazil,2014,Defender,Ecuador,270,90,180,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,1,0,0,0,0,0,0,0,0.67,135,90,270,0,0.33,-1,-1,-1,7
+Eugenio Esteban Mena Reveco,30,FIFA World Cup 2014 Brazil,2014,Defender,Chile,360,90,270,Chile,4,1,3,0,0,0,0,0,0,0,0,1,0,1,3,1,2,2,0,0,0,0,0,0,0,0.75,120,90,180,0,0.5,117,121,42,9
+Michael Antonio Arroyo Mina,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Ecuador,102,82,20,Ecuador,2,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,0,0,0,-1,-1,-1,12
+Jorge Luís Valdivia Toro,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Chile,93,68,25,Chile,3,1,0,1,1,0,0,0,0,0,0,1,0,1,2,1,1,0,0,0.97,0,0.97,1.32,0,93,1.94,47,31,0,0,0,-1,-1,-1,3
+Maximiliano Rubén Rodríguez,37,FIFA World Cup 2014 Brazil,2014,Midfielder,Argentina,35,46,-11,Argentina,2,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,0,0,-1,-1,-1,13
+Ryan McGowan,29,FIFA World Cup 2014 Brazil,2014,Defender,Australia,221,180,41,Australia,3,2,0,0,0,0,1,1,0,0,0,0,0,0,6,6,0,0,0,0.41,0.41,0,0,0,0,2.44,37,74,0,221,0,-1,-1,-1,12
+Young-Gwon Kim,28,FIFA World Cup 2014 Brazil,2014,Defender,South Korea,270,180,90,South Korea,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,5
+Asamoah Gyan,32,FIFA World Cup 2014 Brazil,2014,Forward,Ghana,270,90,180,Ghana,3,1,2,2,0,2,1,1,0,0,0,0,0,0,6,2,4,0,0,1,0.33,0.67,0,1,135,2,45,90,0,270,0,-1,-1,-1,1
+Givanildo Vieira de Souza,32,FIFA World Cup 2014 Brazil,2014,Forward,Brazil,367,304,63,Brazil,6,4,1,0,0,0,0,0,0,0,0,0,0,0,9,8,1,1,0,0,0,0,0,0,0,2.21,41,61,367,0,0.25,91,91,-1,12
+Zvjezdan Misimović,36,FIFA World Cup 2014 Brazil,2014,Midfielder,Bosnia-Herzegovina,164,0,164,Bosnia and Herzegovina,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,1.65,55,82,0,0,0,-1,-1,-1,13
+Diego Forlán Corazo,39,FIFA World Cup 2014 Brazil,2014,Forward,Uruguay,113,60,53,Uruguay,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,3.19,28,57,0,0,0,-1,-1,-1,11
+Alexander Kerzhakov,35,FIFA World Cup 2014 Brazil,2014,Forward,Russia,100,19,81,Russia,3,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0.9,0,0.9,4.74,0,100,0.9,100,33,0,0,0,-1,-1,-1,2
+Oleg Shatov,28,FIFA World Cup 2014 Brazil,2014,Midfielder,Russia,209,59,150,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0.43,209,70,209,0,0.43,-1,-1,-1,12
+Aleksandr Kokorin,27,FIFA World Cup 2014 Brazil,2014,Forward,Russia,270,90,180,Russia,3,1,2,1,0,1,0,0,0,0,0,0,0,0,3,1,2,0,0,0.33,0,0.33,0,0.5,270,1,90,90,0,0,0,-1,-1,-1,1
+Vedran Ćorluka,32,FIFA World Cup 2014 Brazil,2014,Defender,Croatia,270,90,180,Croatia,3,1,2,0,0,0,0,0,0,0,0,1,0,1,5,3,2,1,0,0,0,0,0,0,0,1.67,54,90,270,0,0.33,-1,-1,-1,6
+Alexandr Samedov,34,FIFA World Cup 2014 Brazil,2014,Midfielder,Russia,270,90,180,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,9
+Axel Witsel,29,FIFA World Cup 2014 Brazil,2014,Midfielder,Belgium,360,270,90,Belgium,4,3,1,0,0,0,0,0,0,0,0,1,1,0,2,1,1,1,0,0,0,0,0,0,0,0.5,180,90,360,0,0.25,83,74,-1,16
+Yuri Zhirkov,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Russia,71,71,0,Russia,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1.27,71,71,0,0,0,-1,-1,-1,7
+Nicolas Lombaerts,33,FIFA World Cup 2014 Brazil,2014,Defender,Belgium,90,0,90,Belgium,1,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,-1,-1,-1,8
+Andrey Eshchenko,34,FIFA World Cup 2014 Brazil,2014,Defender,Russia,118,90,28,Russia,2,1,0,0,0,0,1,1,0,0,0,0,0,0,2,1,1,0,0,0.76,0.76,0,0,0,0,1.53,59,59,0,118,0,-1,-1,-1,6
+Dmitri Kombarov,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Russia,270,90,180,Russia,3,1,2,0,0,0,1,0,1,0,0,0,0,0,3,1,2,1,0,0.33,0.33,0,0,0,0,1,90,90,270,270,0.33,-1,-1,-1,8
+Denis Glushakov,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Russia,208,72,136,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,0,0,0,0,0,0,0.87,104,69,208,0,0.43,-1,-1,-1,11
+Maksim Kanunnikov,27,FIFA World Cup 2014 Brazil,2014,Forward,Russia,99,0,99,Russia,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0.91,99,50,0,0,0,-1,-1,-1,14
+Viktor Faizulin,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Russia,270,90,180,Russia,3,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,10
+Aleksey Kozlov,31,FIFA World Cup 2014 Brazil,2014,Defender,Russia,152,0,152,Russia,2,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0.59,152,76,152,0,0.59,-1,-1,-1,13
+Konstantinos Katsouranis,39,FIFA World Cup 2014 Brazil,2014,Midfielder,Greece,140,0,140,Greece,3,0,2,0,0,0,0,0,0,0,0,1,0,1,2,0,2,2,1,0,0,0,0,0,0,1.29,70,47,70,0,1.29,-1,-1,-1,8
+Dimitris Salpingidis,37,FIFA World Cup 2014 Brazil,2014,Forward,Greece,225,90,135,Greece,4,1,2,0,0,0,0,0,0,0,0,1,0,1,3,1,2,1,0,0,0,0,0,0,0,1.2,75,56,225,0,0.4,-1,-1,-1,12
+Masato Morishige,31,FIFA World Cup 2014 Brazil,2014,Defender,Japan,90,0,90,Japan,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,0,0,0,0,0,0,2,45,90,90,0,1,-1,-1,-1,5
+Yoshito Ōkubo,36,FIFA World Cup 2014 Brazil,2014,Forward,Japan,203,180,23,Japan,3,2,0,0,0,0,0,0,0,0,0,1,1,0,4,4,0,0,0,0,0,0,0,0,0,1.77,51,68,0,0,0,-1,-1,-1,12
+Seung-Gyu Kim,28,FIFA World Cup 2014 Brazil,2014,Goalkeeper,South Korea,90,90,0,South Korea,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,13
+Toshihiro Aoyama,32,FIFA World Cup 2014 Brazil,2014,Midfielder,Japan,62,62,0,Japan,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2.9,31,62,0,0,0,-1,-1,-1,13
+Sung-Ryong Jung,33,FIFA World Cup 2014 Brazil,2014,Goalkeeper,South Korea,180,90,90,South Korea,2,1,1,0,0,0,0,0,0,0,0,0,0,0,5,4,1,0,0,0,0,0,0,0,0,2.5,36,90,0,0,0,-1,-1,-1,3
+Yasuyuki Konno,35,FIFA World Cup 2014 Brazil,2014,Defender,Japan,180,180,0,Japan,2,2,0,0,0,0,0,0,0,0,0,1,1,0,4,4,0,1,0,0,0,0,0,0,0,2,45,90,180,0,0.5,-1,-1,-1,14
+Alexander Domínguez Carabalí,31,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Ecuador,270,90,180,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,2
+Mehrdad Pooladi,31,FIFA World Cup 2014 Brazil,2014,Defender,Iran,270,90,180,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,5
+Kook-Young Han,28,FIFA World Cup 2014 Brazil,2014,Midfielder,South Korea,214,124,90,South Korea,3,2,1,0,0,0,1,0,1,0,0,0,0,0,5,4,1,1,0,0.42,0.42,0,0,0,0,2.1,43,71,214,214,0.42,-1,-1,-1,10
+Abdelmoumene Djabou,31,FIFA World Cup 2014 Brazil,2014,Midfielder,Algeria,140,77,63,Algeria,3,1,1,2,0,2,1,0,1,0,0,0,0,0,3,1,2,0,0,1.93,0.64,1.29,0,2.86,70,1.93,47,47,0,140,0,-1,-1,-1,2
+Abdul Fatau Dauda,33,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Ghana,180,0,180,Ghana,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,2,45,90,0,0,0,-1,-1,-1,14
+Francisco Javier Rodríguez Pinedo,36,FIFA World Cup 2014 Brazil,2014,Defender,Mexico,360,90,270,Mexico,4,1,3,0,0,0,0,0,0,0,0,2,1,1,2,0,2,0,0,0,0,0,0,0,0,0.5,180,90,0,0,0,97,58,24,6
+Paul Nicolás Aguilar Rojas,32,FIFA World Cup 2014 Brazil,2014,Defender,Mexico,360,90,270,Mexico,4,1,3,0,0,0,0,0,0,0,0,2,1,1,2,0,2,2,0,0,0,0,0,0,0,0.5,180,90,180,0,0.5,61,59,23,7
+Oribe Peralta Morones,34,FIFA World Cup 2014 Brazil,2014,Forward,Mexico,302,74,228,Mexico,4,1,3,1,1,0,1,0,1,0,0,2,1,1,0,0,0,0,0,0.6,0.3,0.3,1.22,0,302,0,0,76,0,302,0,18,18,-1,3
+Alexander Mejía Sabalsa,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Colombia,144,54,90,Colombia,4,0,1,0,0,0,0,0,0,0,0,2,2,0,1,0,1,0,0,0,0,0,0,0,0,0.63,144,36,0,0,0,-1,-1,-1,12
+Carlos Arnoldo Salcido Flores,38,FIFA World Cup 2014 Brazil,2014,Defender,Mexico,90,0,90,Mexico,2,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,90,45,0,0,0,-1,-1,-1,12
+José Juan Vázquez Gómez,30,FIFA World Cup 2014 Brazil,2014,Midfielder,Mexico,270,90,180,Mexico,3,1,2,0,0,0,0,0,0,0,0,2,1,1,1,0,1,2,0,0,0,0,0,0,0,0.33,270,90,135,0,0.67,-1,-1,-1,11
+Walter Orlando Ayoví Corozo,39,FIFA World Cup 2014 Brazil,2014,Defender,Ecuador,270,90,180,Ecuador,3,1,2,0,0,0,2,0,2,0,0,1,1,0,2,0,2,0,0,0.67,0.67,0,0,0,0,0.67,135,90,0,135,0,-1,-1,-1,5
+Jorge Daniel Guagua Tamayo,36,FIFA World Cup 2014 Brazil,2014,Defender,Ecuador,270,90,180,Ecuador,3,1,2,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,0.67,135,90,0,0,0,-1,-1,-1,3
+Michael Babatunde,25,FIFA World Cup 2014 Brazil,2014,Midfielder,Nigeria,141,141,0,Nigeria,2,2,0,0,0,0,1,1,0,0,0,1,1,0,3,3,0,0,0,0.64,0.64,0,0,0,0,1.91,47,71,0,141,0,-1,-1,-1,14
+Michael Umaña Corrales,36,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,360,90,270,Costa Rica,4,1,3,0,0,0,0,0,0,0,0,2,0,2,1,0,1,1,0,0,0,0,0,0,0,0.25,360,90,360,0,0.25,106,123,6,5
+Randall Brenes Moya,35,FIFA World Cup 2014 Brazil,2014,Forward,Costa Rica,75,66,9,Costa Rica,3,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,-1,-1,-1,13
+Jhonny Acosta Zamora,35,FIFA World Cup 2014 Brazil,2014,Defender,Costa Rica,103,13,90,Costa Rica,2,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,52,103,0,0.87,-1,-1,-1,12
+Yong Lee,31,FIFA World Cup 2014 Brazil,2014,Defender,South Korea,270,180,90,South Korea,3,2,1,0,0,0,0,0,0,0,0,0,0,0,6,5,1,1,0,0,0,0,0,0,0,2,45,90,270,0,0.33,-1,-1,-1,7
+Shin-Wook Kim,30,FIFA World Cup 2014 Brazil,2014,Forward,South Korea,99,99,0,South Korea,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0.91,99,50,0,0,0,-1,-1,-1,12
+Pejman Montazeri,35,FIFA World Cup 2014 Brazil,2014,Defender,Iran,270,90,180,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,4
+Andranik Timotian-Samarani,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Iran,270,90,180,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,1,0,0,0,0,0,0,0,1,90,90,270,0,0.33,-1,-1,-1,9
+Madjid Bougherra,35,FIFA World Cup 2014 Brazil,2014,Defender,Algeria,172,0,172,Algeria,3,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,4,1,0,0,0,0,0,0,0,2.09,43,57,172,0,0.52,-1,-1,-1,17
+Mark Bresciano,38,FIFA World Cup 2014 Brazil,2014,Midfielder,Australia,147,69,78,Australia,3,1,1,0,0,0,0,0,0,0,0,0,0,0,4,2,2,0,0,0,0,0,0,0,0,2.45,37,49,0,0,0,-1,-1,-1,8
+Seyed Jalal Hosseini,36,FIFA World Cup 2014 Brazil,2014,Defender,Iran,270,90,180,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,3
+Noel Eduardo Valladares Bonilla,41,FIFA World Cup 2014 Brazil,2014,Goalkeeper,Honduras,270,180,90,Honduras,3,2,1,0,0,0,0,0,0,0,0,0,0,0,8,5,3,0,0,0,0,0,0,0,0,2.67,34,90,0,0,0,-1,-1,-1,2
+Khosro Heydari,35,FIFA World Cup 2014 Brazil,2014,Midfielder,Iran,147,89,58,Iran,3,1,0,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,0,0,1.22,74,49,0,0,0,-1,-1,-1,11
+Cédric Djeugoué,26,FIFA World Cup 2014 Brazil,2014,Defender,Cameroon,46,0,46,Cameroon,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,-1,-1,-1,6
+Amir Hossein Sadeghi,37,FIFA World Cup 2014 Brazil,2014,Defender,Iran,270,90,180,Iran,3,1,2,0,0,0,0,0,0,0,0,1,1,0,3,0,3,0,0,0,0,0,0,0,0,1,90,90,0,0,0,-1,-1,-1,6

@@ -1,0 +1,25 @@
+Jaspreet Nanda
+Brandon Morgan
+
+FIFA World Cup 2014 ETL Report
+
+For our ETL project, we decided to focus our efforts on data concerning the 2014 FIFA World Cup. 
+Our data sources were two CSV files from a website called 'FootyStats.org'. The first contained statistics on the teams that 
+played in the tournament and the second contained individual player statistics. 
+
+We extracted our world cup data by loading the two CSV files into a Jupyter notebook and using Pandas read and store them into 
+separate data frames. 
+
+Our transformation process consisted of deleting unnecessary columns from both data frames, as many of the column headers 
+(particularly those in the team data) contained statistics that were fringe and unimportant for our purposes. We also renamed several 
+of the column names in the player data frame to increase uniformity in naming convention between the two tables. Last, we encountered 
+a problem in which "Ivory Coast" in the team data frame was listed as "Côte d'Ivoire" in the player data. To enable ourselves to use 
+join the two tables using "Country" as the team data's primary key and "Nationality" as the player data's foreign key, we renamed 
+the country "Côte d'Ivoire".
+
+To load the data, we first created a database and two tables in MySQL workbench designed to fit the parameters of our data. 
+We then connected our engine within our Jupyter notebook and converted both dataframes into SQL tables. Finally, we used Pandas to 
+read an SQL query to join our tables on "team country = player nationality". This represented a one to many relationship 
+(illustrated in the attached diagram) of many players to one national team. As our database currently stands, we have a list of 
+all players in the 2014 FIFA World Cup, aggregated by country and joined with team stats, ready for further analysis.
+
